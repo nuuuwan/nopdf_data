@@ -1,0 +1,43 @@
+e Area of Residence -
+
+Panadura, Moratuwa, Alubomulla, Gonawila, Govinna, Kandy, Galle, Thimbinigaskatuwa,
+Kochchikade, Negombo, Santhiveli, Balangoda, Ninthavur 10, Sammanthurai, Pathana, Baduraliya,
+Walallawita, Bombuwala, Waskaduwa, Mahagama, Kalutara, Dodangoda, Melsiripura, Ambakote,
+Kurunegala, Panagamuwa, Maduragoda, Merahawatta, Kinniya, Kattankudy 04, Eravur 01,
+Kattankudy 03, Raththota, Monaragala, Anuradhapura, Mathugama, Kotikawaththa, Nagollagama,
+Colombo 12, Kadugannawa, Gampola, Seeduwa, Hemmathagama, Pitigala, Niyagama,
+Karandeniya and Kahaduwa.
+
+Age Group
+Under 20 years - 00
+20 - 29 years - 00
+30-39 years - 02
+40-49 years - 03
+50-59 years - 04
+60 -69 years - 13
+70-79 years - Pal
+80-89 years - 17
+90-99 years - 02
+Over 99 years - 00
+
+¢ Place of Death
+
+In Residence -13
+On admission to hospital -05
+While being treated in hospital -44
+
+¢ Causes of Death
+
+COVID 19 infection associated with diseases such as COVID Pneumonia, Severe COVID 19
+pneumonia, Hypertension, Ischaemic heart disease, Chronic renal disease, Diabetes,
+Dyslipidaemia, Cerebro vascular disease, Acute kidney injury, Multi organ failure, Acute
+respiratory distress syndrome, Occlusive coronary artery disease, Sepsis, Chronic kidney disease,
+Chronic renal failure, Chronic lung disease, Large pulmonary embolism, Cecal adenocarcinoma,
+Acute respiratory failure, Stroke, Bronchial asthma, Chronic obstructive pulmonary disease and the
+complications of Respiratory diseases.
+
+,
+Slyw., ed) WRN)
+Mohan Samaranayake
+Director General of Government information
+

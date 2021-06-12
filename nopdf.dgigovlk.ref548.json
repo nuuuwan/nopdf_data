@@ -1,0 +1,198 @@
+{
+  "ref_no": "548",
+  "unixtime": 1623025800,
+  "datetime": "2021-06-07 06:00",
+  "cum_deaths": 1742,
+  "deaths_by_day": [
+    {
+      "unixtime": 1621189800,
+      "date": "2021-05-17",
+      "deaths": 1
+    },
+    {
+      "unixtime": 1621621800,
+      "date": "2021-05-22",
+      "deaths": 1
+    },
+    {
+      "unixtime": 1621794600,
+      "date": "2021-05-24",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1621967400,
+      "date": "2021-05-26",
+      "deaths": 1
+    },
+    {
+      "unixtime": 1622313000,
+      "date": "2021-05-30",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1622399400,
+      "date": "2021-05-31",
+      "deaths": 6
+    },
+    {
+      "unixtime": 1622485800,
+      "date": "2021-06-01",
+      "deaths": 3
+    },
+    {
+      "unixtime": 1622572200,
+      "date": "2021-06-02",
+      "deaths": 9
+    },
+    {
+      "unixtime": 1622658600,
+      "date": "2021-06-03",
+      "deaths": 3
+    },
+    {
+      "unixtime": 1622745000,
+      "date": "2021-06-04",
+      "deaths": 15
+    },
+    {
+      "unixtime": 1622831400,
+      "date": "2021-06-05",
+      "deaths": 3
+    }
+  ],
+  "deaths_by_gender": [
+    {
+      "gender": "Female",
+      "deaths": 23
+    },
+    {
+      "gender": "Male",
+      "deaths": 23
+    }
+  ],
+  "deaths_by_age": [
+    {
+      "age_range": [
+        0,
+        20
+      ],
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        20,
+        29
+      ],
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        39
+      ],
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        40,
+        49
+      ],
+      "deaths": 4
+    },
+    {
+      "age_range": [
+        50,
+        59
+      ],
+      "deaths": 6
+    },
+    {
+      "age_range": [
+        60,
+        69
+      ],
+      "deaths": 7
+    },
+    {
+      "age_range": [
+        70,
+        79
+      ],
+      "deaths": 15
+    },
+    {
+      "age_range": [
+        80,
+        89
+      ],
+      "deaths": 11
+    },
+    {
+      "age_range": [
+        90,
+        99
+      ],
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        99,
+        130
+      ],
+      "deaths": 0
+    }
+  ],
+  "deaths_py_place": [
+    {
+      "place": "In Residence ",
+      "deaths": 13
+    },
+    {
+      "place": "On admission to hospital ",
+      "deaths": 2
+    },
+    {
+      "place": "While being treated in hospital ",
+      "deaths": 3
+    }
+  ],
+  "areas_of_residence": [
+    "Agalawatta",
+    "Akmeemana",
+    "Algama",
+    "Ambepussa",
+    "Avissawella",
+    "Bambalapitiya",
+    "Batticaloa",
+    "Borella",
+    "Colombo 14",
+    "Colombo 15",
+    "Galeliya",
+    "Galle",
+    "Gampaha",
+    "Gelioya",
+    "Gintota",
+    "Gurudeniya and Gampola.",
+    "Hatton",
+    "Hikkaduwa",
+    "Kalutara",
+    "Kinniya",
+    "Meerigama",
+    "Muruthalawa",
+    "Nagoda",
+    "Nawuththuduwa",
+    "Newara Eliya",
+    "Nittambuwa",
+    "Opanayaka",
+    "Passara",
+    "Pilimathalawa",
+    "Pitakotte",
+    "Rathgama",
+    "Udathalawinna",
+    "Vavuniya",
+    "Veyangoda",
+    "Weligama",
+    "Yakkalamulla",
+    "akurana"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "ref_no": "549",
+  "released_from_isolation": [
+    {
+      "district_name": "Batticaloa",
+      "police_areas": [
+        {
+          "police_area_name": "Batticaloa",
+          "areas": []
+        },
+        {
+          "police_area_name": "Kalkuda",
+          "areas": []
+        },
+        {
+          "police_area_name": "Kaththandudi",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "district_name": "Colombo",
+      "police_areas": [
+        {
+          "police_area_name": "Piliyandala",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "district_name": "Galle",
+      "police_areas": [
+        {
+          "police_area_name": "Ahangama",
+          "areas": []
+        },
+        {
+          "police_area_name": "Elpitiya",
+          "areas": [
+            "Walambagala Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Habaraduwa",
+          "areas": []
+        },
+        {
+          "police_area_name": "Imaduwa",
+          "areas": [
+            "iladhari Division",
+            "iladhari Division."
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Gampaha",
+      "police_areas": [
+        {
+          "police_area_name": "Mahabage",
+          "areas": [
+            "Elapitawala Nawam Maharagama Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Pamunugamuwa",
+          "areas": [
+            "03 and 07 lanes in Nilsirigama Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Wattala",
+          "areas": [
+            "Coktain Mawatha",
+            "Paranawatta Grama Niladhari Division",
+            "Parts other than thfollowing villages in Hekitta Grama Niladhari Division",
+            "Sedawatta Grama Niladhari Division."
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Jaffna",
+      "police_areas": [
+        {
+          "police_area_name": "Palali",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "district_name": "Kalutara",
+      "police_areas": [
+        {
+          "police_area_name": "Agalawatta",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "district_name": "Mathale",
+      "police_areas": [
+        {
+          "police_area_name": "Raththota",
+          "areas": [
+            "Udahapuwida Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Yatawatta",
+          "areas": [
+            "Alawattagama in Yatawatta Grama Niladhari Division",
+            "Walpola Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Mullaitivu",
+      "police_areas": [
+        {
+          "police_area_name": "Mulliyaweli",
+          "areas": [
+            "= Mulliyawalai North Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Pudukudiyiruppu",
+          "areas": [
+            "Kombawil Grama Niladhari Division",
+            "Maliyathivu Grama Niladhani Division",
+            "Maththuwil Grama Niladhari Division",
+            "Pudukudiyiruppu East Grama Niladhari Division",
+            "Pudukudiyiruppu West Grama Niladhan Division",
+            "Thevipuram Grama Niladhari Division",
+            "Udayakattu North Grama Niladhari Division",
+            "Udayakattu South Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Nuwara Eliya",
+      "police_areas": [
+        {
+          "police_area_name": "Ginigathhena",
+          "areas": [
+            "Millagahamula Grama Niladhari Division",
+            "Morahena Grama Niladhani Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Rathnapura",
+      "police_areas": [
+        {
+          "police_area_name": "Embilipitiya",
+          "areas": [
+            "Modarawana Grama Niladhari Division",
+            "Pallegama Grama Niladhari Division",
+            "Udagama Grama Niladhari Division",
+            "Yodhagama Grama Niladhari Division",
+            "ew Town Grama Niladhari Division."
+          ]
+        },
+        {
+          "police_area_name": "Kahawatta",
+          "areas": [
+            "KattangPortion No.3 Grama Niladhari Division",
+            "Madalagama Colony Grama Niladhan Division",
+            "Nugawela East Grama Niladhari Division",
+            "e Nugawela West Grama Niladhari Division",
+            "e UdahavupGrama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Kalawana",
+          "areas": [
+            "= Wathurawa Grama Niladhari Division",
+            "Dandagamuwa Grama Niladhari Division",
+            "Hapugoda Grama Niladhan Division",
+            "Panapola Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Panamura",
+          "areas": [
+            "Panamura Grama Niladhari Division",
+            "Sudugala Grama Niladhari Division",
+            "Walalgoda Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Pelmadulla",
+          "areas": [
+            "Denawaka Pathgoda Grama Niladhani Division",
+            "Dippitigala Grama Niladhari Division",
+            "Dombagaswinna Grama Niladhari Division",
+            "Godagama Grama Niladhari Division",
+            "Sannasgama Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Rakwana",
+          "areas": [
+            "Gabbella Grama Niladhari Division.",
+            "Miyanawita West Grama Niladhari Division",
+            "Panapitiya North Grama Niladhan Division",
+            "Panapitiya South Grama Niladhan Division",
+            "Pothupitiya North Grama Niladhari Division",
+            "Pothupitiya South Grama Niladhari Division",
+            "umbakanda Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Trincomalee",
+      "police_areas": [
+        {
+          "police_area_name": "Trincomalee",
+          "areas": [
+            "=Pumpuhar Grama Niladhani Division",
+            "Murugan Koviladi Grama Niladhari Division"
+          ]
+        }
+      ]
+    }
+  ]
+}

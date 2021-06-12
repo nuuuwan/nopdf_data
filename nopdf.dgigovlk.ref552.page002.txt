@@ -1,0 +1,34 @@
+e Age Group
+
+Under 20 years - 00
+20 - 29 years - 00
+30-39 years - 01
+40-49 years - 01
+50-59 years - 11
+60 -69 years - 14
+70-79 years - 13
+80-89 years - 05
+90-99 years - 02
+Over 99 years - 00
+
+¢ Place of Death
+
+In Residence - 09
+On admission to hospital - 03
+While being treated in hospital -35
+
+¢ Causes of Death
+
+COVID 19 infection associated with diseases such as Covid 19 infection, Chronic liver disease,
+Peptic ulcer disease, COVID 19 Chest Infection, Bilateral hip fracture, Dermatological disease,
+Diabetes Mellitus, Hypertension, Severe COVID pneumonia, Multi organ failure, Septicaemia,
+Acute Myocardial infarction, Sepsis, Chronic kidney disease, Acute Kidney Injury, Acute
+Coronary syndrome, Hepatic Encephalopathy, Heart failure, Cerebro vascular accident, Acute
+Respiratory distress syndrome, Covid 19 lung infection and the complications of Respiratory
+diseases.
+
+’
+Sayan, oN Na
+Mohan Samaranayake
+Director General of Government information
+

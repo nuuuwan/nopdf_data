@@ -1,0 +1,49 @@
+e Age Group
+
+Under 20 Years - 00
+
+20 - 29 years - 01
+30-39 years - 01
+40-49 years - 04
+50-59 years - 06
+60 -69 years - 07
+70-79 years -15
+80-89 years -11
+90-99 years - 01
+over 99 years - 00
+
+e Place of Death
+
+In Residence -13
+On admission to hospital -02
+While being treated in hospital -3]
+
+© Cause of Death
+
+ 
+
+ 
+
+ 
+
+COVID 19 infection associated with diseases such as Covid Pneumonia, Covid 19
+Lung Infection, Diabetes Mellitus, heart disease, Hypertension, Chronic kidney
+
+ 
+
+ 
+
+ 
+
+ 
+
+disease, Sepsis, acute kidney injury, Severe COVID pneumonia, Stroke, Cerebro
+
+ 
+
+vascular Accident and the complications of respiratory diseases.
+
+Saw o> Ian
+Mohan Samaranayake
+Director General of Government Information
+

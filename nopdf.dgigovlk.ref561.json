@@ -1,0 +1,126 @@
+{
+  "ref_no": "561",
+  "unixtime": 1623380400,
+  "datetime": "2021-06-11 08:30",
+  "released_from_isolation": [
+    {
+      "district_name": "Batticaloa",
+      "police_areas": [
+        {
+          "police_area_name": "Kattankudy",
+          "areas": [
+            "Nochimunai Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Gampaha",
+      "police_areas": [
+        {
+          "police_area_name": "Divulapitiya",
+          "areas": [
+            "Palugahawela Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Dungalpitiya",
+          "areas": [
+            "Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama",
+            "Niladhari Division",
+            "Pitipana Lellama (Pitipana North) Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Kadawatha",
+          "areas": [
+            "Ranawiru Dharmasiri Mawatha"
+          ]
+        },
+        {
+          "police_area_name": "Mahabage",
+          "areas": [
+            "Elapitiwala Nawam Mahara gama Grama Niladhari Division"
+          ]
+        },
+        {
+          "police_area_name": "Wattala",
+          "areas": [
+            "44\" Lanin Kunjagahawatta Grama Niladhari Division",
+            "Alwis Place",
+            "Alwiswatta Villagin Kurundugahahena Grama Niladhari Division",
+            "Athkam Housing Scheme",
+            "Koktain Road",
+            "National Housing Scheme"
+          ]
+        },
+        {
+          "police_area_name": "Weliweriya",
+          "areas": [
+            "Etikehelgalla Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Hambanthota",
+      "police_areas": [
+        {
+          "police_area_name": "Agunakolapelessa",
+          "areas": [
+            "RotGrama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Kaluthara",
+      "police_areas": [
+        {
+          "police_area_name": "Panadura South",
+          "areas": [
+            "Vijitha Mawatha in Nagoda South Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Monaragala",
+      "police_areas": [
+        {
+          "police_area_name": "Sewanagala",
+          "areas": [
+            "Bahirawa Grama Niladhari Division",
+            "Habaraththawela Grama Niladhari Division",
+            "Habarugala Grama Niladhari Division",
+            "Idikolapelessa Grama Niladhari Division",
+            "Kiriwewa Grama Niladhari Division",
+            "Mahagama Grama Niladhari Division",
+            "Sewanagala Grama Niladhari Division"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Nuwara Eliya",
+      "police_areas": [
+        {
+          "police_area_name": "Lindula",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "district_name": "Trincomalee",
+      "police_areas": [
+        {
+          "police_area_name": "Kinniya",
+          "areas": [
+            "Kurinchakerny Grama Niladhari Division",
+            "Munachchenei Grama Niladhari Division"
+          ]
+        }
+      ]
+    }
+  ]
+}

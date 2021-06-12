@@ -1,0 +1,48 @@
+e Area of Residence -
+
+Valaichenai, Weboda, Passara, Welamboda, Pupurassa, Nawalapitiya, Dolosbage, Hatton, Ragama,
+Polonnaruuwa, Bandaragama, Neboda, Millaniya, Unawatuna, Amugoda, Hirimbura, Wakwella,
+Dikwella, Galle, Diyathalawa, Wattala, Ja-Ela, Minuwangoda, Sandalankawa, Dondra, Gampaha, Mt
+Lavinia, Homagama, Piliyandala, Dehiwala, Maharagama, Colombo 15, Kesbewa, Kandapola,
+Nuwara Eliya, Dikoya, Bogawanthalawa, Maskeliya, Kotagala, Naththandiya, Akkaraipaththu,
+Moratuwa, Madawala, Hapugasthenna, Nagoda - Kalutara, Matugama, Beruwala, Kithalawa -
+Kalutara, Maggona, Ukuwela, Matale, Katukithula, Karandeniya, Katugasthota, Ankottawala,
+Andiambalama, Batticaloa, Udupussalllawa, Raddolugama, Seeduwa, Aranayake, Bulathsinhala,
+Anguruwathota, Govinna, Horana, Matugama, Walallawita, Bombuwala, Kandy, Werellagama,
+Veyangoda, Weligama, Boossa, Rathgama, Marawila, Badalgama, Ambagasduwa, Egoda Uyana -
+Moratuwa, Angulana - Moratuwa, Dummalasootiya - Kuliyapitiya, Gampaha and Digannewa.
+
+Age Group
+Under 20 years - 00
+20 - 29 years - 01
+30-39 years - 03
+40-49 years - 02
+50-59 years - 14
+60 -69 years - 30
+70-79 years - 25
+80-89 years - 21)
+90-99 years - 05
+Over 99 years - 00
+
+¢ Place of Death
+
+In Residence - 30
+On admission to hospital -14
+While being treated in hospital -57
+
+¢ Causes of Death
+
+COVID 19 infection associated with diseases such as COVID Pneumonia, Respiratory failure,
+Diabetes mellitus, Hypertension, Chronic kidney disease, Acute respiratory Distress Syndrome,
+Coronary Heart disease, Chronic Obstructive Pulmonary Disease, Chronic Liver Disease, Acute
+Respiratory failure, Septic shock, Broncho pneumonia, Acute Kidney injury, Hypertensive heart
+disease, Cerebral infarction, Infection of lung, Sepsis, Multi-organ Failure, Encephalitis, Carcinoma
+of breast, Severe COVID 19 Pneumonia, Septicemia, Acute renal failure, Coronary Heart Disease,
+COVID encephalopathy, epilepsy, Chronic liver cell disease, Hypothyroidism and the complications
+of Respiratory diseases.
+
+!
+S2omrnry, ord)
+Mohan Samaranayake
+Director General of Government information
+

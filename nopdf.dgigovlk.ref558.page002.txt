@@ -1,0 +1,45 @@
+e Area of Residence -
+
+Colombo 15, Wattala, Wellampitiya, Avissawella, Negombo, Valachchenai, Colombo 14,
+Kotahena, Dulankadawala, Meegama, Welisara, Bandaragama, Galle, Poojapitiya, Gampola,
+Ambepussa, Deniyaya, Bogawanthalawa, Parakaduwa, Dedigamuwa, Wellawaya,
+Hemmathagama, Ganemulla, Gonawala, Ekala, Paranthan, Karandeniya, Moratuwa, Wadduwa,
+Madapatha, Alubomulla, Piliyandala, Matale, Eravur, Wattegama, Balangoda, Kelaniya,
+Homagama, Katuneriya, Gampaha, Pussellawa, Welambada, Kengalla, Katugasthota, Kandy,
+Colombo 7, Nuwara Eliya, Galagedara, Kalutara, Colombo 10, Ampara, Passara, Matara,
+Marawila, Kalutara South, Dehiwala and Ginthota.
+
+Age Group
+Under 20 years - ol
+20 - 29 years - 02
+30-39 years - 01
+40-49 years - 03
+50-59 years - 05
+60 -69 years - 16
+70-79 years - 19
+80-89 years - 18
+90-99 years - 02
+Over 99 years - 00
+
+¢ Place of Death
+
+In Residence - 06
+On admission to hospital -05
+While being treated in hospital - 56
+
+¢ Causes of Death
+
+COVID 19 infection associated with diseases such as COVID Pneumonia, Infective endocarditis
+complicated with Thrombo embolic brain stem infarction, Hypertension, Diabetes mellitus,
+Epilepsy, Cytokine storm, Ischemic heart disease, Acute Respiratory Distress syndrome, Renal
+failure, Multi-organ failure, Complications of aortic stenosis, Cerebro vascular Accident, Rectal
+Carcinoma, Acute Myocardial Infection, Cardio respiratory arrest, Acute Coronary Syndrome,
+Complications of stroke, Chronic kidney disease, Bronchial asthma, Severe acute respiratory
+distress syndrome, Dyslipidemia, Sepsis, Hashimoto’s disease, Interstitial lung disease and the
+complications of Respiratory diseases.
+
+,
+Slow, ed)
+Mohan Samaranayake
+Director General of Government information
+
