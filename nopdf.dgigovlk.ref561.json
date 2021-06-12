@@ -4,104 +4,166 @@
   "datetime": "2021-06-11 08:30",
   "released_from_isolation": [
     {
+      "district_id": "LK-51",
       "district_name": "Batticaloa",
       "police_areas": [
         {
           "police_area_name": "Kattankudy",
           "areas": [
-            "Nochimunai Grama Niladhari Division"
+            {
+              "area_name": "Nochimunai Grama Niladhari Division"
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-12",
       "district_name": "Gampaha",
       "police_areas": [
         {
           "police_area_name": "Divulapitiya",
           "areas": [
-            "Palugahawela Grama Niladhari Division"
+            {
+              "gnd_id": "LK-1209530",
+              "gnd_name": "Palugahawela"
+            }
           ]
         },
         {
           "police_area_name": "Dungalpitiya",
           "areas": [
-            "Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama",
-            "Niladhari Division",
-            "Pitipana Lellama (Pitipana North) Grama Niladhari Division"
+            {
+              "gnd_id": "LK-1206205",
+              "gnd_name": "Air Force Camp"
+            },
+            {
+              "area_name": "Niladhari Division"
+            },
+            {
+              "gnd_id": "LK-1203120",
+              "gnd_name": "Pitipana North"
+            }
           ]
         },
         {
           "police_area_name": "Kadawatha",
           "areas": [
-            "Ranawiru Dharmasiri Mawatha"
+            {
+              "area_name": "Ranawiru Dharmasiri Mawatha"
+            }
           ]
         },
         {
           "police_area_name": "Mahabage",
           "areas": [
-            "Elapitiwala Nawam Mahara gama Grama Niladhari Division"
+            {
+              "gnd_id": "LK-1218085",
+              "gnd_name": "Elapitiwala"
+            }
           ]
         },
         {
           "police_area_name": "Wattala",
           "areas": [
-            "44\" Lanin Kunjagahawatta Grama Niladhari Division",
-            "Alwis Place",
-            "Alwiswatta Villagin Kurundugahahena Grama Niladhari Division",
-            "Athkam Housing Scheme",
-            "Koktain Road",
-            "National Housing Scheme"
+            {
+              "area_name": "44\" Lanin Kunjagahawatta Grama Niladhari Division"
+            },
+            {
+              "area_name": "Alwis Place"
+            },
+            {
+              "area_name": "Alwiswatta Villagin Kurundugahahena Grama Niladhari Division"
+            },
+            {
+              "area_name": "Athkam Housing Scheme"
+            },
+            {
+              "area_name": "Koktain Road"
+            },
+            {
+              "area_name": "National Housing Scheme"
+            }
           ]
         },
         {
           "police_area_name": "Weliweriya",
           "areas": [
-            "Etikehelgalla Grama Niladhari Division"
+            {
+              "gnd_id": "LK-1233160",
+              "gnd_name": "Etikehelgalla East"
+            }
           ]
         }
       ]
     },
     {
-      "district_name": "Hambanthota",
+      "district_id": "LK-33",
+      "district_name": "Hambantota",
       "police_areas": [
         {
           "police_area_name": "Agunakolapelessa",
           "areas": [
-            "RotGrama Niladhari Division"
+            {
+              "area_name": "RotGrama Niladhari Division"
+            }
           ]
         }
       ]
     },
     {
-      "district_name": "Kaluthara",
+      "district_id": "LK-13",
+      "district_name": "Kalutara",
       "police_areas": [
         {
           "police_area_name": "Panadura South",
           "areas": [
-            "Vijitha Mawatha in Nagoda South Grama Niladhari Division"
+            {
+              "area_name": "Vijitha Mawatha in Nagoda South Grama Niladhari Division"
+            }
           ]
         }
       ]
     },
     {
-      "district_name": "Monaragala",
+      "district_id": "LK-82",
+      "district_name": "Moneragala",
       "police_areas": [
         {
           "police_area_name": "Sewanagala",
           "areas": [
-            "Bahirawa Grama Niladhari Division",
-            "Habaraththawela Grama Niladhari Division",
-            "Habarugala Grama Niladhari Division",
-            "Idikolapelessa Grama Niladhari Division",
-            "Kiriwewa Grama Niladhari Division",
-            "Mahagama Grama Niladhari Division",
-            "Sewanagala Grama Niladhari Division"
+            {
+              "gnd_id": "LK-8233045",
+              "gnd_name": "Bahirawa"
+            },
+            {
+              "gnd_id": "LK-8233070",
+              "gnd_name": "Habarattawela"
+            },
+            {
+              "gnd_id": "LK-8233055",
+              "gnd_name": "Habarugala"
+            },
+            {
+              "area_name": "Idikolapelessa Grama Niladhari Division"
+            },
+            {
+              "area_name": "Kiriwewa Grama Niladhari Division"
+            },
+            {
+              "gnd_id": "LK-8233065",
+              "gnd_name": "Mahagama"
+            },
+            {
+              "gnd_id": "LK-8233035",
+              "gnd_name": "Sevanagala"
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-23",
       "district_name": "Nuwara Eliya",
       "police_areas": [
         {
@@ -111,13 +173,19 @@
       ]
     },
     {
+      "district_id": "LK-53",
       "district_name": "Trincomalee",
       "police_areas": [
         {
           "police_area_name": "Kinniya",
           "areas": [
-            "Kurinchakerny Grama Niladhari Division",
-            "Munachchenei Grama Niladhari Division"
+            {
+              "gnd_id": "LK-5324070",
+              "gnd_name": "kurinchakerny"
+            },
+            {
+              "area_name": "Munachchenei Grama Niladhari Division"
+            }
           ]
         }
       ]
