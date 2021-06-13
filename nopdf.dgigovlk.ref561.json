@@ -25,7 +25,8 @@
           "police_area_name": "Divulapitiya",
           "areas": [
             {
-              "area_name": "Palugahawela Grama Niladhari Division"
+              "gnd_id": "LK-1209530",
+              "gnd_name": "Palugahawela"
             }
           ]
         },
@@ -55,7 +56,8 @@
           "police_area_name": "Mahabage",
           "areas": [
             {
-              "area_name": "Elapitiwala Nawam Mahara gama Grama Niladhari Division"
+              "gnd_id": "LK-1218085",
+              "gnd_name": "Elapitiwala"
             }
           ]
         },
@@ -128,13 +130,16 @@
           "police_area_name": "Sewanagala",
           "areas": [
             {
-              "area_name": "Bahirawa Grama Niladhari Division"
+              "gnd_id": "LK-8233045",
+              "gnd_name": "Bahirawa"
             },
             {
-              "area_name": "Habaraththawela Grama Niladhari Division"
+              "gnd_id": "LK-8233070",
+              "gnd_name": "Habarattawela"
             },
             {
-              "area_name": "Habarugala Grama Niladhari Division"
+              "gnd_id": "LK-8233055",
+              "gnd_name": "Habarugala"
             },
             {
               "area_name": "Idikolapelessa Grama Niladhari Division"
@@ -143,10 +148,12 @@
               "area_name": "Kiriwewa Grama Niladhari Division"
             },
             {
-              "area_name": "Mahagama Grama Niladhari Division"
+              "gnd_id": "LK-8233065",
+              "gnd_name": "Mahagama"
             },
             {
-              "area_name": "Sewanagala Grama Niladhari Division"
+              "gnd_id": "LK-8233035",
+              "gnd_name": "Sevanagala"
             }
           ]
         }
@@ -170,7 +177,8 @@
           "police_area_name": "Kinniya",
           "areas": [
             {
-              "area_name": "Kurinchakerny Grama Niladhari Division"
+              "gnd_id": "LK-5324070",
+              "gnd_name": "kurinchakerny"
             },
             {
               "area_name": "Munachchenei Grama Niladhari Division"
