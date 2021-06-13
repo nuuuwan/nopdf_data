@@ -1,76 +1,76 @@
 {
   "ref_no": "552",
-  "unixtime": 1623083400,
+  "unixtime": 1623103200,
   "datetime": "2021-06-07 22:00",
   "cum_deaths": 1789,
   "deaths_by_day": [
     {
-      "unixtime": 1621189800,
+      "unixtime": 1621209600,
       "date": "2021-05-17",
       "deaths": 2
     },
     {
-      "unixtime": 1621276200,
+      "unixtime": 1621296000,
       "date": "2021-05-18",
       "deaths": 1
     },
     {
-      "unixtime": 1621881000,
+      "unixtime": 1621900800,
       "date": "2021-05-25",
       "deaths": 1
     },
     {
-      "unixtime": 1621967400,
+      "unixtime": 1621987200,
       "date": "2021-05-26",
       "deaths": 1
     },
     {
-      "unixtime": 1622053800,
+      "unixtime": 1622073600,
       "date": "2021-05-27",
       "deaths": 2
     },
     {
-      "unixtime": 1622140200,
+      "unixtime": 1622160000,
       "date": "2021-05-28",
       "deaths": 1
     },
     {
-      "unixtime": 1622226600,
+      "unixtime": 1622246400,
       "date": "2021-05-29",
       "deaths": 1
     },
     {
-      "unixtime": 1622313000,
+      "unixtime": 1622332800,
       "date": "2021-05-30",
       "deaths": 1
     },
     {
-      "unixtime": 1622485800,
+      "unixtime": 1622505600,
       "date": "2021-06-01",
       "deaths": 2
     },
     {
-      "unixtime": 1622572200,
+      "unixtime": 1622592000,
       "date": "2021-06-02",
       "deaths": 5
     },
     {
-      "unixtime": 1622658600,
+      "unixtime": 1622678400,
       "date": "2021-06-03",
       "deaths": 8
     },
     {
-      "unixtime": 1622745000,
+      "unixtime": 1622764800,
       "date": "2021-06-04",
       "deaths": 4
     },
     {
-      "unixtime": 1622831400,
+      "unixtime": 1622851200,
       "date": "2021-06-05",
       "deaths": 5
     },
     {
-      "unixtime": 1622917800,
+      "unixtime": 1622937600,
       "date": "2021-06-06",
       "deaths": 13
     }

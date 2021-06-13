@@ -1,0 +1,44 @@
+e Area of Residence -
+
+Lunuwatta, Bandarawela, Galle, Thissawewa, Wennappuwa, Aluthmalkaduwawa, Narammala,
+Wariyapola, Kudagalgamuwa, Boyagane, Rideegama, Madahapola, Pubbogama, Moratuwa,
+Thannamunai, Bulathsinghala, Wellawatta, Piliyandala, Kotte, Makuldeniya, Mawanella,
+Nawalapitiya, Panadura, Aranayake, Walachchenei 5, Walachchenei 4, Wallalawita, Poodaluoya,
+Handessa, Hataraliyadda, Kandy, Ganegoda, Gampola, Neboda, Bollassagama, Bandaragama,
+Danovita, Katukithula, Pilimathalawa, Dompe, Dodangoda, Mathugama, Meegahathenna,
+Waskaduwa, Warapitiya, Poruwadanda, Hawa Eliya, Ibbagamuwa, Kalmunai, Dorawaka, Akurana,
+Buiranthirachenai and Warakamuna.
+
+e Age Group
+Under 20 years - 00
+20 - 29 years - 00
+30-39 years - 01
+40-49 years - 02
+50-59 years - 08
+60 -69 years - 15
+70-79 years - 23
+80-89 years - 11
+90-99 years - 03
+Over 99 years - 00
+
+e Place of Death
+
+In Residence -07
+On admission to hospital -09
+While being treated in hospital -47
+
+¢ Causes of Death
+
+COVID 19 infection associated with diseases such as COVID Pneumonia, Multi organ failure,
+COVID 19 lung Pneumonia, Myocardial Infarction, Ischemic Heart Disease, Hypothyroidism,
+Meningo encephalitis, Acute respiratory distress syndrome, Stroke, Sepsis, Cellulitis, Diabetes
+Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension, Acute Coronary Syndrome, severe
+COVID 19 Pneumonia, Bronchial Asthma, Cardio pulmonary arrest, Cerebrovascular accident,
+COVID 19 chest infection, Chronic Kidney disease, Dyslipidemia, Septic shock, Heart failure and
+the complications of Respiratory diseases.
+
+!
+Slyw.,, eo ) We)
+Mohan Samaranayake
+Director General of Government information
+

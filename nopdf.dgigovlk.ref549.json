@@ -2,6 +2,7 @@
   "ref_no": "549",
   "released_from_isolation": [
     {
+      "district_id": "LK-51",
       "district_name": "Batticaloa",
       "police_areas": [
         {
@@ -19,6 +20,7 @@
       ]
     },
     {
+      "district_id": "LK-11",
       "district_name": "Colombo",
       "police_areas": [
         {
@@ -28,6 +30,7 @@
       ]
     },
     {
+      "district_id": "LK-31",
       "district_name": "Galle",
       "police_areas": [
         {
@@ -37,7 +40,9 @@
         {
           "police_area_name": "Elpitiya",
           "areas": [
-            "Walambagala Grama Niladhari Division"
+            {
+              "area_name": "Walambagala Grama Niladhari Division"
+            }
           ]
         },
         {
@@ -47,39 +52,58 @@
         {
           "police_area_name": "Imaduwa",
           "areas": [
-            "iladhari Division",
-            "iladhari Division."
+            {
+              "area_name": "iladhari Division"
+            },
+            {
+              "area_name": "iladhari Division."
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-12",
       "district_name": "Gampaha",
       "police_areas": [
         {
           "police_area_name": "Mahabage",
           "areas": [
-            "Elapitawala Nawam Maharagama Grama Niladhari Division"
+            {
+              "gnd_id": "LK-1218085",
+              "gnd_name": "Elapitiwala"
+            }
           ]
         },
         {
           "police_area_name": "Pamunugamuwa",
           "areas": [
-            "03 and 07 lanes in Nilsirigama Grama Niladhari Division"
+            {
+              "area_name": "03 and 07 lanes in Nilsirigama Grama Niladhari Division"
+            }
           ]
         },
         {
           "police_area_name": "Wattala",
           "areas": [
-            "Coktain Mawatha",
-            "Paranawatta Grama Niladhari Division",
-            "Parts other than thfollowing villages in Hekitta Grama Niladhari Division",
-            "Sedawatta Grama Niladhari Division."
+            {
+              "area_name": "Coktain Mawatha"
+            },
+            {
+              "area_name": "Paranawatta Grama Niladhari Division"
+            },
+            {
+              "area_name": "Parts other than thfollowing villages in Hekitta Grama Niladhari Division"
+            },
+            {
+              "area_name": "Sedawatta Grama Niladhari Division."
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-41",
       "district_name": "Jaffna",
       "police_areas": [
         {
@@ -89,6 +113,7 @@
       ]
     },
     {
+      "district_id": "LK-13",
       "district_name": "Kalutara",
       "police_areas": [
         {
@@ -98,131 +123,250 @@
       ]
     },
     {
-      "district_name": "Mathale",
+      "district_id": "LK-22",
+      "district_name": "Matale",
       "police_areas": [
         {
           "police_area_name": "Raththota",
           "areas": [
-            "Udahapuwida Grama Niladhari Division"
+            {
+              "area_name": "Udahapuwida Grama Niladhari Division"
+            }
           ]
         },
         {
           "police_area_name": "Yatawatta",
           "areas": [
-            "Alawattagama in Yatawatta Grama Niladhari Division",
-            "Walpola Grama Niladhari Division"
+            {
+              "area_name": "Alawattagama in Yatawatta Grama Niladhari Division"
+            },
+            {
+              "gnd_id": "LK-2215140",
+              "gnd_name": "Walpola"
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-44",
       "district_name": "Mullaitivu",
       "police_areas": [
         {
           "police_area_name": "Mulliyaweli",
           "areas": [
-            "= Mulliyawalai North Grama Niladhari Division"
+            {
+              "area_name": "= Mulliyawalai North Grama Niladhari Division"
+            }
           ]
         },
         {
           "police_area_name": "Pudukudiyiruppu",
           "areas": [
-            "Kombawil Grama Niladhari Division",
-            "Maliyathivu Grama Niladhani Division",
-            "Maththuwil Grama Niladhari Division",
-            "Pudukudiyiruppu East Grama Niladhari Division",
-            "Pudukudiyiruppu West Grama Niladhan Division",
-            "Thevipuram Grama Niladhari Division",
-            "Udayakattu North Grama Niladhari Division",
-            "Udayakattu South Grama Niladhari Division"
+            {
+              "gnd_id": "LK-4409015",
+              "gnd_name": "Kombavil"
+            },
+            {
+              "area_name": "Maliyathivu Grama Niladhani Division"
+            },
+            {
+              "area_name": "Maththuwil Grama Niladhari Division"
+            },
+            {
+              "area_name": "Pudukudiyiruppu East Grama Niladhari Division"
+            },
+            {
+              "area_name": "Pudukudiyiruppu West Grama Niladhan Division"
+            },
+            {
+              "gnd_id": "LK-4409065",
+              "gnd_name": "Thevipuram"
+            },
+            {
+              "area_name": "Udayakattu North Grama Niladhari Division"
+            },
+            {
+              "area_name": "Udayakattu South Grama Niladhari Division"
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-23",
       "district_name": "Nuwara Eliya",
       "police_areas": [
         {
           "police_area_name": "Ginigathhena",
           "areas": [
-            "Millagahamula Grama Niladhari Division",
-            "Morahena Grama Niladhani Division"
+            {
+              "gnd_id": "LK-2315050",
+              "gnd_name": "Millagahamula"
+            },
+            {
+              "area_name": "Morahena Grama Niladhani Division"
+            }
           ]
         }
       ]
     },
     {
-      "district_name": "Rathnapura",
+      "district_id": "LK-91",
+      "district_name": "Ratnapura",
       "police_areas": [
         {
           "police_area_name": "Embilipitiya",
           "areas": [
-            "Modarawana Grama Niladhari Division",
-            "Pallegama Grama Niladhari Division",
-            "Udagama Grama Niladhari Division",
-            "Yodhagama Grama Niladhari Division",
-            "ew Town Grama Niladhari Division."
+            {
+              "gnd_id": "LK-9148130",
+              "gnd_name": "Modarawana"
+            },
+            {
+              "area_name": "Pallegama Grama Niladhari Division"
+            },
+            {
+              "gnd_id": "LK-9115040",
+              "gnd_name": "Udagama"
+            },
+            {
+              "gnd_id": "LK-9148125",
+              "gnd_name": "Yodhagama"
+            },
+            {
+              "area_name": "ew Town Grama Niladhari Division."
+            }
           ]
         },
         {
           "police_area_name": "Kahawatta",
           "areas": [
-            "KattangPortion No.3 Grama Niladhari Division",
-            "Madalagama Colony Grama Niladhan Division",
-            "Nugawela East Grama Niladhari Division",
-            "e Nugawela West Grama Niladhari Division",
-            "e UdahavupGrama Niladhari Division"
+            {
+              "area_name": "KattangPortion No.3 Grama Niladhari Division"
+            },
+            {
+              "gnd_id": "LK-9139040",
+              "gnd_name": "Madalagama Colony"
+            },
+            {
+              "gnd_id": "LK-9139010",
+              "gnd_name": "Nugawela West"
+            },
+            {
+              "area_name": "e Nugawela West Grama Niladhari Division"
+            },
+            {
+              "area_name": "e UdahavupGrama Niladhari Division"
+            }
           ]
         },
         {
           "police_area_name": "Kalawana",
           "areas": [
-            "= Wathurawa Grama Niladhari Division",
-            "Dandagamuwa Grama Niladhari Division",
-            "Hapugoda Grama Niladhan Division",
-            "Panapola Grama Niladhari Division"
+            {
+              "area_name": "= Wathurawa Grama Niladhari Division"
+            },
+            {
+              "area_name": "Dandagamuwa Grama Niladhari Division"
+            },
+            {
+              "gnd_id": "LK-9133150",
+              "gnd_name": "Hapugoda"
+            },
+            {
+              "gnd_id": "LK-9133140",
+              "gnd_name": "Panapola"
+            }
           ]
         },
         {
           "police_area_name": "Panamura",
           "areas": [
-            "Panamura Grama Niladhari Division",
-            "Sudugala Grama Niladhari Division",
-            "Walalgoda Grama Niladhari Division"
+            {
+              "gnd_id": "LK-9148085",
+              "gnd_name": "Panamura"
+            },
+            {
+              "gnd_id": "LK-9106075",
+              "gnd_name": "Sudagala"
+            },
+            {
+              "gnd_id": "LK-9148140",
+              "gnd_name": "Walalgoda"
+            }
           ]
         },
         {
           "police_area_name": "Pelmadulla",
           "areas": [
-            "Denawaka Pathgoda Grama Niladhani Division",
-            "Dippitigala Grama Niladhari Division",
-            "Dombagaswinna Grama Niladhari Division",
-            "Godagama Grama Niladhari Division",
-            "Sannasgama Grama Niladhari Division"
+            {
+              "gnd_id": "LK-9124110",
+              "gnd_name": "Denawaka Pathakada"
+            },
+            {
+              "gnd_id": "LK-9124050",
+              "gnd_name": "Dippitigala"
+            },
+            {
+              "gnd_id": "LK-9124040",
+              "gnd_name": "Dombagasvinna"
+            },
+            {
+              "gnd_id": "LK-9124035",
+              "gnd_name": "Godagama"
+            },
+            {
+              "gnd_id": "LK-9124045",
+              "gnd_name": "Sannasgama"
+            }
           ]
         },
         {
           "police_area_name": "Rakwana",
           "areas": [
-            "Gabbella Grama Niladhari Division.",
-            "Miyanawita West Grama Niladhari Division",
-            "Panapitiya North Grama Niladhan Division",
-            "Panapitiya South Grama Niladhan Division",
-            "Pothupitiya North Grama Niladhari Division",
-            "Pothupitiya South Grama Niladhari Division",
-            "umbakanda Grama Niladhari Division"
+            {
+              "area_name": "Gabbella Grama Niladhari Division."
+            },
+            {
+              "gnd_id": "LK-9139090",
+              "gnd_name": "Miyanavita West"
+            },
+            {
+              "gnd_id": "LK-9139045",
+              "gnd_name": "Panapitiya North"
+            },
+            {
+              "gnd_id": "LK-9139045",
+              "gnd_name": "Panapitiya North"
+            },
+            {
+              "gnd_id": "LK-9133155",
+              "gnd_name": "Pothupitiya North"
+            },
+            {
+              "gnd_id": "LK-9133155",
+              "gnd_name": "Pothupitiya North"
+            },
+            {
+              "area_name": "umbakanda Grama Niladhari Division"
+            }
           ]
         }
       ]
     },
     {
+      "district_id": "LK-53",
       "district_name": "Trincomalee",
       "police_areas": [
         {
           "police_area_name": "Trincomalee",
           "areas": [
-            "=Pumpuhar Grama Niladhani Division",
-            "Murugan Koviladi Grama Niladhari Division"
+            {
+              "area_name": "=Pumpuhar Grama Niladhani Division"
+            },
+            {
+              "area_name": "Murugan Koviladi Grama Niladhari Division"
+            }
           ]
         }
       ]
