@@ -7,15 +7,34 @@
       "police_areas": [
         {
           "police_area_name": "Batticaloa",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "Palameenmadu Grama Niladhari Diivision"
+            },
+            {
+              "area_name": "Sinnorani Grama Niladhari Diivision"
+            }
+          ]
         },
         {
           "police_area_name": "Kalkuda",
-          "areas": []
+          "areas": [
+            {
+              "gnd_id": "LK-5109030",
+              "gnd_name": "Kalmadu"
+            }
+          ]
         },
         {
           "police_area_name": "Kaththandudi",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "Kalladiwellur Grama Niladhari Diivision"
+            },
+            {
+              "area_name": "Thiruchendur Grama Niladhari Diivision"
+            }
+          ]
         }
       ]
     },
@@ -25,7 +44,14 @@
       "police_areas": [
         {
           "police_area_name": "Piliyandala",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "Kolamulla Grama Niladhari Diivision"
+            },
+            {
+              "area_name": "MampWest Grama Niladhan Diivision"
+            }
+          ]
         }
       ]
     },
@@ -35,7 +61,27 @@
       "police_areas": [
         {
           "police_area_name": "Ahangama",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "Dommangoda Grama Niladhari Diivision"
+            },
+            {
+              "area_name": "Gosiyapana Grama Niladhari Diivision"
+            },
+            {
+              "gnd_id": "LK-3154080",
+              "gnd_name": "Kahawennagama"
+            },
+            {
+              "area_name": "Karadungoda Grama Niladhari Diivision"
+            },
+            {
+              "area_name": "Meegagoda Grama"
+            },
+            {
+              "area_name": "iyadigama Grama"
+            }
+          ]
         },
         {
           "police_area_name": "Elpitiya",
@@ -47,13 +93,45 @@
         },
         {
           "police_area_name": "Habaraduwa",
-          "areas": []
+          "areas": [
+            {
+              "gnd_id": "LK-3154135",
+              "gnd_name": "Katukurunda"
+            },
+            {
+              "gnd_id": "LK-3154165",
+              "gnd_name": "Koggala"
+            },
+            {
+              "gnd_id": "LK-3154165",
+              "gnd_name": "Koggala"
+            },
+            {
+              "gnd_id": "LK-3154125",
+              "gnd_name": "Lanumodara"
+            }
+          ]
         },
         {
           "police_area_name": "Imaduwa",
           "areas": [
             {
-              "area_name": "iladhari Division"
+              "gnd_id": "LK-3151210",
+              "gnd_name": "Atanikitha"
+            },
+            {
+              "area_name": "Bonawista Grama Nil"
+            },
+            {
+              "gnd_id": "LK-3151170",
+              "gnd_name": "Dikkumbura"
+            },
+            {
+              "gnd_id": "LK-3154240",
+              "gnd_name": "Meliyagoda"
+            },
+            {
+              "area_name": "iladhari Diivision."
             },
             {
               "area_name": "iladhari Division."
@@ -87,7 +165,19 @@
           "police_area_name": "Wattala",
           "areas": [
             {
+              "area_name": "Alwiswatta"
+            },
+            {
+              "area_name": "Alwiswattagama in Kurundugahahena Grama Niladhari Disvision"
+            },
+            {
+              "area_name": "Athkam Niwasa Complex"
+            },
+            {
               "area_name": "Coktain Mawatha"
+            },
+            {
+              "area_name": "National Housing Complex"
             },
             {
               "area_name": "Paranawatta Grama Niladhari Division"
@@ -108,7 +198,11 @@
       "police_areas": [
         {
           "police_area_name": "Palali",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "Palali North Grama Niladhani Diivision"
+            }
+          ]
         }
       ]
     },
@@ -118,7 +212,11 @@
       "police_areas": [
         {
           "police_area_name": "Agalawatta",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "Wedikandagama in Kithulgoda South Grama Niladhan Diivision"
+            }
+          ]
         }
       ]
     },
@@ -156,7 +254,10 @@
           "police_area_name": "Mulliyaweli",
           "areas": [
             {
-              "area_name": "= Mulliyawalai North Grama Niladhari Division"
+              "area_name": "Mulliyawalai North Grama Niladhari Division"
+            },
+            {
+              "area_name": "Mulliyawalai West Grama Niladhari Diivision"
             }
           ]
         },
@@ -188,6 +289,9 @@
             },
             {
               "area_name": "Udayakattu South Grama Niladhari Division"
+            },
+            {
+              "area_name": "Wallipuram Grama Niladhari Diivision"
             }
           ]
         }
@@ -252,19 +356,16 @@
               "area_name": "Nugawela East Grama Niladhari Division"
             },
             {
-              "area_name": "e Nugawela West Grama Niladhari Division"
+              "area_name": "Nugawela West Grama Niladhari Division"
             },
             {
-              "area_name": "e UdahavupGrama Niladhari Division"
+              "area_name": "UdahavupGrama Niladhari Division"
             }
           ]
         },
         {
           "police_area_name": "Kalawana",
           "areas": [
-            {
-              "area_name": "= Wathurawa Grama Niladhari Division"
-            },
             {
               "area_name": "Dandagamuwa Grama Niladhari Division"
             },
@@ -275,6 +376,10 @@
             {
               "gnd_id": "LK-9133140",
               "gnd_name": "Panapola"
+            },
+            {
+              "gnd_id": "LK-9133085",
+              "gnd_name": "Wathurawa"
             }
           ]
         },
@@ -355,14 +460,20 @@
           "police_area_name": "Trincomalee",
           "areas": [
             {
-              "area_name": "=Pumpuhar Grama Niladhani Division"
+              "area_name": "Murugan Koviladi Grama Niladhari Division"
             },
             {
-              "area_name": "Murugan Koviladi Grama Niladhari Division"
+              "gnd_id": "LK-5315140",
+              "gnd_name": "Poompuhar"
             }
           ]
         }
       ]
     }
+  ],
+  "uncategorized_text_lines": [
+    "Trincomalee, Mathale, Mullaitivu, Jaffna, Colombo, Batticaloa, Kalutara and Galle Districts have",
+    "restrictions, announced General Shavendra Silva, Commander of the Army, Head of the National",
+    "Operations Center for Prevention of Covid 19 outbreak."
   ]
 }

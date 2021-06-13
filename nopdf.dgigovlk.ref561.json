@@ -165,7 +165,11 @@
       "police_areas": [
         {
           "police_area_name": "Lindula",
-          "areas": []
+          "areas": [
+            {
+              "area_name": "St. Coombas Estate"
+            }
+          ]
         }
       ]
     },
@@ -187,5 +191,11 @@
         }
       ]
     }
+  ],
+  "uncategorized_text_lines": [
+    "subject to the Existing Travel Restrictions.",
+    "announced General Shavendra Silva, Commander of the Army, Head of the National",
+    "Operations Center for Prevention of Covid 19 outbreak.",
+    "163, Dgerrionen sos, Gay"
   ]
 }

@@ -1,7 +1,6 @@
 
 # Press Release No. 569
 *2021-06-13 06:00*
-
 ## Statistics
 * Total Deaths: 2136
 ### Deaths by Day
@@ -119,6 +118,13 @@
 * severeCOVID 19 Pneumonia
 
 
-
-
+*12 COVID deaths reported from 23"t May to 31st May:*
+*51 COVID deaths reported from 01st June to 11 June:*
+*No COVID deaths reported yesterday (12):*
+*Death toll due to COVID 19 from 23 to 31 May, 2021 as confirmed yesterday (12) by the Director*
+*General of Health Services — 12*
+*Death toll due to COVID 19 from 01 to 11 June as confirmed yesterday (12) by the Director General*
+*of Health Services — 51*
+*No COVID death was reported so far yesterday, June 12.*
+*Slyw.,, eo ) We)*
         

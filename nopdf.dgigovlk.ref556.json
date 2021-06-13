@@ -2,6 +2,8 @@
   "ref_no": "556",
   "unixtime": 1623264300,
   "datetime": "2021-06-09 18:45",
-  "cum_confirmed": 206074,
-  "new_confirmed": 2173
+  "cum_conf": 206074,
+  "cum_conf_new_year": 2173,
+  "cum_conf_patients": 203901,
+  "new_conf": 2173
 }

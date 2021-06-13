@@ -2,14 +2,13 @@
 # Press Release No. 561
 *2021-06-11 08:30*
 
-
-
 ## Released from Isolation
-* Batticaloa District 
+* Batticaloa District (LK-51) 
   * Kattankudy Police Area
     * Nochimunai Grama Niladhari Division 
-* Gampaha District 
+* Gampaha District (LK-12) 
   * Divulapitiya Police Area
+    * Palugahawela GND (LK-1209530) 
   * Dungalpitiya Police Area
     * Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama 
     * Niladhari Division 
@@ -17,6 +16,7 @@
   * Kadawatha Police Area
     * Ranawiru Dharmasiri Mawatha 
   * Mahabage Police Area
+    * Elapitiwala GND (LK-1218085) 
   * Wattala Police Area
     * 44" Lanin Kunjagahawatta Grama Niladhari Division 
     * Alwis Place 
@@ -26,21 +26,31 @@
     * National Housing Scheme 
   * Weliweriya Police Area
     * Etikehelgalla Grama Niladhari Division 
-* Hambantota District 
+* Hambantota District (LK-33) 
   * Agunakolapelessa Police Area
     * RotGrama Niladhari Division 
-* Kalutara District 
+* Kalutara District (LK-13) 
   * Panadura South Police Area
     * Vijitha Mawatha in Nagoda South Grama Niladhari Division 
-* Moneragala District 
+* Moneragala District (LK-82) 
   * Sewanagala Police Area
+    * Bahirawa GND (LK-8233045) 
+    * Habarattawela GND (LK-8233070) 
+    * Habarugala GND (LK-8233055) 
     * Idikolapelessa Grama Niladhari Division 
     * Kiriwewa Grama Niladhari Division 
-* Nuwara Eliya District 
+    * Mahagama GND (LK-8233065) 
+    * Sevanagala GND (LK-8233035) 
+* Nuwara Eliya District (LK-23) 
   * Lindula Police Area
-* Trincomalee District 
+    * St. Coombas Estate 
+* Trincomalee District (LK-53) 
   * Kinniya Police Area
+    * kurinchakerny GND (LK-5324070) 
     * Munachchenei Grama Niladhari Division 
 
-
+*subject to the Existing Travel Restrictions.*
+*announced General Shavendra Silva, Commander of the Army, Head of the National*
+*Operations Center for Prevention of Covid 19 outbreak.*
+*163, Dgerrionen sos, Gay*
         

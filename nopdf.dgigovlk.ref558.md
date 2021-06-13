@@ -1,7 +1,6 @@
 
 # Press Release No. 558
 *2021-06-09 22:30*
-
 ## Statistics
 * Total Deaths: 1910
 ### Deaths by Day
@@ -124,6 +123,12 @@
 * Severe acute respiratorydistress syndrome
 
 
-
-
+*No COVID deaths reported today (09):*
+*19 COVID deaths reported from 17 May to 31 May:*
+*48 COVID deaths reported from 015t June to 08» June:*
+*No COVID 19 death was reported so far today, June 09, 2021.*
+*Death toll due to COVID 19 from May 17 to May 31 as confirmed today (09) by the Director*
+*General of Health Services - 19*
+*Death toll due to COVID 19 from June 01 to June 08 as confirmed today (09) by the Director*
+*General of Health Services — 48.*
         
