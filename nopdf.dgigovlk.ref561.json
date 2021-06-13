@@ -25,8 +25,7 @@
           "police_area_name": "Divulapitiya",
           "areas": [
             {
-              "gnd_id": "LK-1209530",
-              "gnd_name": "Palugahawela"
+              "area_name": "Palugahawela Grama Niladhari Division"
             }
           ]
         },
@@ -34,15 +33,13 @@
           "police_area_name": "Dungalpitiya",
           "areas": [
             {
-              "gnd_id": "LK-1206205",
-              "gnd_name": "Air Force Camp"
+              "area_name": "Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama"
             },
             {
               "area_name": "Niladhari Division"
             },
             {
-              "gnd_id": "LK-1203120",
-              "gnd_name": "Pitipana North"
+              "area_name": "Pitipana Lellama (Pitipana North) Grama Niladhari Division"
             }
           ]
         },
@@ -58,8 +55,7 @@
           "police_area_name": "Mahabage",
           "areas": [
             {
-              "gnd_id": "LK-1218085",
-              "gnd_name": "Elapitiwala"
+              "area_name": "Elapitiwala Nawam Mahara gama Grama Niladhari Division"
             }
           ]
         },
@@ -90,8 +86,7 @@
           "police_area_name": "Weliweriya",
           "areas": [
             {
-              "gnd_id": "LK-1233160",
-              "gnd_name": "Etikehelgalla East"
+              "area_name": "Etikehelgalla Grama Niladhari Division"
             }
           ]
         }
@@ -133,16 +128,13 @@
           "police_area_name": "Sewanagala",
           "areas": [
             {
-              "gnd_id": "LK-8233045",
-              "gnd_name": "Bahirawa"
+              "area_name": "Bahirawa Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-8233070",
-              "gnd_name": "Habarattawela"
+              "area_name": "Habaraththawela Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-8233055",
-              "gnd_name": "Habarugala"
+              "area_name": "Habarugala Grama Niladhari Division"
             },
             {
               "area_name": "Idikolapelessa Grama Niladhari Division"
@@ -151,12 +143,10 @@
               "area_name": "Kiriwewa Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-8233065",
-              "gnd_name": "Mahagama"
+              "area_name": "Mahagama Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-8233035",
-              "gnd_name": "Sevanagala"
+              "area_name": "Sewanagala Grama Niladhari Division"
             }
           ]
         }
@@ -180,8 +170,7 @@
           "police_area_name": "Kinniya",
           "areas": [
             {
-              "gnd_id": "LK-5324070",
-              "gnd_name": "kurinchakerny"
+              "area_name": "Kurinchakerny Grama Niladhari Division"
             },
             {
               "area_name": "Munachchenei Grama Niladhari Division"

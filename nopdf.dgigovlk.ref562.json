@@ -2,6 +2,7 @@
   "ref_no": "562",
   "unixtime": 1623416400,
   "datetime": "2021-06-11 13:00",
+  "cum_deaths": 2011,
   "deaths_by_day": [
     {
       "unixtime": 1612569600,

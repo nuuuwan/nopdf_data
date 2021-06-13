@@ -70,8 +70,7 @@
           "police_area_name": "Mahabage",
           "areas": [
             {
-              "gnd_id": "LK-1218085",
-              "gnd_name": "Elapitiwala"
+              "area_name": "Elapitawala Nawam Maharagama Grama Niladhari Division"
             }
           ]
         },
@@ -141,8 +140,7 @@
               "area_name": "Alawattagama in Yatawatta Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-2215140",
-              "gnd_name": "Walpola"
+              "area_name": "Walpola Grama Niladhari Division"
             }
           ]
         }
@@ -164,8 +162,7 @@
           "police_area_name": "Pudukudiyiruppu",
           "areas": [
             {
-              "gnd_id": "LK-4409015",
-              "gnd_name": "Kombavil"
+              "area_name": "Kombawil Grama Niladhari Division"
             },
             {
               "area_name": "Maliyathivu Grama Niladhani Division"
@@ -180,8 +177,7 @@
               "area_name": "Pudukudiyiruppu West Grama Niladhan Division"
             },
             {
-              "gnd_id": "LK-4409065",
-              "gnd_name": "Thevipuram"
+              "area_name": "Thevipuram Grama Niladhari Division"
             },
             {
               "area_name": "Udayakattu North Grama Niladhari Division"
@@ -201,8 +197,7 @@
           "police_area_name": "Ginigathhena",
           "areas": [
             {
-              "gnd_id": "LK-2315050",
-              "gnd_name": "Millagahamula"
+              "area_name": "Millagahamula Grama Niladhari Division"
             },
             {
               "area_name": "Morahena Grama Niladhani Division"
@@ -219,19 +214,16 @@
           "police_area_name": "Embilipitiya",
           "areas": [
             {
-              "gnd_id": "LK-9148130",
-              "gnd_name": "Modarawana"
+              "area_name": "Modarawana Grama Niladhari Division"
             },
             {
               "area_name": "Pallegama Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9115040",
-              "gnd_name": "Udagama"
+              "area_name": "Udagama Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9148125",
-              "gnd_name": "Yodhagama"
+              "area_name": "Yodhagama Grama Niladhari Division"
             },
             {
               "area_name": "ew Town Grama Niladhari Division."
@@ -245,12 +237,10 @@
               "area_name": "KattangPortion No.3 Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9139040",
-              "gnd_name": "Madalagama Colony"
+              "area_name": "Madalagama Colony Grama Niladhan Division"
             },
             {
-              "gnd_id": "LK-9139010",
-              "gnd_name": "Nugawela West"
+              "area_name": "Nugawela East Grama Niladhari Division"
             },
             {
               "area_name": "e Nugawela West Grama Niladhari Division"
@@ -270,12 +260,10 @@
               "area_name": "Dandagamuwa Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9133150",
-              "gnd_name": "Hapugoda"
+              "area_name": "Hapugoda Grama Niladhan Division"
             },
             {
-              "gnd_id": "LK-9133140",
-              "gnd_name": "Panapola"
+              "area_name": "Panapola Grama Niladhari Division"
             }
           ]
         },
@@ -283,16 +271,13 @@
           "police_area_name": "Panamura",
           "areas": [
             {
-              "gnd_id": "LK-9148085",
-              "gnd_name": "Panamura"
+              "area_name": "Panamura Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9106075",
-              "gnd_name": "Sudagala"
+              "area_name": "Sudugala Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9148140",
-              "gnd_name": "Walalgoda"
+              "area_name": "Walalgoda Grama Niladhari Division"
             }
           ]
         },
@@ -300,24 +285,19 @@
           "police_area_name": "Pelmadulla",
           "areas": [
             {
-              "gnd_id": "LK-9124110",
-              "gnd_name": "Denawaka Pathakada"
+              "area_name": "Denawaka Pathgoda Grama Niladhani Division"
             },
             {
-              "gnd_id": "LK-9124050",
-              "gnd_name": "Dippitigala"
+              "area_name": "Dippitigala Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9124040",
-              "gnd_name": "Dombagasvinna"
+              "area_name": "Dombagaswinna Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9124035",
-              "gnd_name": "Godagama"
+              "area_name": "Godagama Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9124045",
-              "gnd_name": "Sannasgama"
+              "area_name": "Sannasgama Grama Niladhari Division"
             }
           ]
         },
@@ -328,24 +308,19 @@
               "area_name": "Gabbella Grama Niladhari Division."
             },
             {
-              "gnd_id": "LK-9139090",
-              "gnd_name": "Miyanavita West"
+              "area_name": "Miyanawita West Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9139045",
-              "gnd_name": "Panapitiya North"
+              "area_name": "Panapitiya North Grama Niladhan Division"
             },
             {
-              "gnd_id": "LK-9139045",
-              "gnd_name": "Panapitiya North"
+              "area_name": "Panapitiya South Grama Niladhan Division"
             },
             {
-              "gnd_id": "LK-9133155",
-              "gnd_name": "Pothupitiya North"
+              "area_name": "Pothupitiya North Grama Niladhari Division"
             },
             {
-              "gnd_id": "LK-9133155",
-              "gnd_name": "Pothupitiya North"
+              "area_name": "Pothupitiya South Grama Niladhari Division"
             },
             {
               "area_name": "umbakanda Grama Niladhari Division"
