@@ -1,6 +1,6 @@
-# nopdf 
+# nopdf_data 
 
-For generation code see https://github.com/nuuuwan/nopdf. 
+For generation code and more details see https://github.com/nuuuwan/nopdf. 
 
 ## Update History
 * Sun Jun 13 08:03:31 UTC 2021
