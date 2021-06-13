@@ -8,5 +8,5 @@
 * New Cases: 2610
 
 
-*fy  )) Sed HOadS cseembmeSadQo*
+fy  )) Sed HOadS cseembmeSadQo
         

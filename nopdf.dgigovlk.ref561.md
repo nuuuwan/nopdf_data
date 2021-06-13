@@ -49,8 +49,8 @@
     * kurinchakerny GND (LK-5324070) 
     * Munachchenei Grama Niladhari Division 
 
-*subject to the Existing Travel Restrictions.*
-*announced General Shavendra Silva, Commander of the Army, Head of the National*
-*Operations Center for Prevention of Covid 19 outbreak.*
-*163, Dgerrionen sos, Gay*
+subject to the Existing Travel Restrictions.
+announced General Shavendra Silva, Commander of the Army, Head of the National
+Operations Center for Prevention of Covid 19 outbreak.
+163, Dgerrionen sos, Gay
         

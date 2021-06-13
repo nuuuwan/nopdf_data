@@ -114,13 +114,13 @@
 * tespiratory failure
 
 
-*No COVID deaths reported today (08):*
-*15 COVID deaths reported from 10 May to 31st May:*
-*39 COVID deaths reported from 024 June to 07! June:*
-*No COVID 19 death was reported today, June 08, 2021*
-*Death toll due to COVID 19 from May 10 to May 31 as confirmed today (08) by the Director*
-*General of Health Services - 15.*
-*Death toll due to COVID 19 from June 02 to June 07 as confirmed today (08) by the Director*
-*General of Health Services — 39.*
-*S2ywww, vd)*
+No COVID deaths reported today (08):
+15 COVID deaths reported from 10 May to 31st May:
+39 COVID deaths reported from 024 June to 07! June:
+No COVID 19 death was reported today, June 08, 2021
+Death toll due to COVID 19 from May 10 to May 31 as confirmed today (08) by the Director
+General of Health Services - 15.
+Death toll due to COVID 19 from June 02 to June 07 as confirmed today (08) by the Director
+General of Health Services — 39.
+S2ywww, vd)
         

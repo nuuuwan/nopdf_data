@@ -123,7 +123,7 @@
     * Murugan Koviladi Grama Niladhari Division 
     * Poompuhar GND (LK-5315140) 
 
-*Trincomalee, Mathale, Mullaitivu, Jaffna, Colombo, Batticaloa, Kalutara and Galle Districts have*
-*restrictions, announced General Shavendra Silva, Commander of the Army, Head of the National*
-*Operations Center for Prevention of Covid 19 outbreak.*
+Trincomalee, Mathale, Mullaitivu, Jaffna, Colombo, Batticaloa, Kalutara and Galle Districts have
+restrictions, announced General Shavendra Silva, Commander of the Army, Head of the National
+Operations Center for Prevention of Covid 19 outbreak.
         

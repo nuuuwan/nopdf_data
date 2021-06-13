@@ -106,13 +106,13 @@
 * Stroke
 
 
-*07 COVID deaths reported from 08 May to 31st May:*
-*55 COVID deaths reported from 01* June to 10 June:*
-*No COVID deaths reported yesterday (11):*
-*Death toll due to COVID 19 from 08 to 31 May 2021 as confirmed yesterday (11) by the Director*
-*General of Health Services — 07,*
-*Death toll due to COVID 19 from 01* June to 10 June as confirmed yesterday (11) by the Director*
-*General of Health Services — 55*
-*No COVID death was reported so far yesterday, June 11.*
-*Slyw., ed) wong*
+07 COVID deaths reported from 08 May to 31st May:
+55 COVID deaths reported from 01* June to 10 June:
+No COVID deaths reported yesterday (11):
+Death toll due to COVID 19 from 08 to 31 May 2021 as confirmed yesterday (11) by the Director
+General of Health Services — 07,
+Death toll due to COVID 19 from 01* June to 10 June as confirmed yesterday (11) by the Director
+General of Health Services — 55
+No COVID death was reported so far yesterday, June 11.
+Slyw., ed) wong
         

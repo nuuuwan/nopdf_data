@@ -154,16 +154,16 @@
 * epilepsy
 
 
-*COVID deaths occurred from 06 February to 9 June now confirmed:*
-*13 COVID deaths reported on 06 February, 01st April and from 15 to 29t» May:*
-*88 COVID deaths reported from 015t to 09 June:*
-*No COVID deaths reported yesterday (10):*
-*The Epidemiology Unit of the Ministry of Health yesterday (10) confirmed COVID 19 deaths that*
-*occurred on 19 days between February 6 and June 09, 2021.*
-*Death toll due to COVID 19 on 06 February and 01 April and from 15 to 29 May as confirmed*
-*yesterday (10) by the Director General of Health Services — 13*
-*Death toll due to COVID 19 from 1+ to 09 June as confirmed yesterday (10) by the Director*
-*General of Health Services — 88*
-*No Covid death was reported Yesterday, June 10.*
-*S2ymrnry 2rd)*
+COVID deaths occurred from 06 February to 9 June now confirmed:
+13 COVID deaths reported on 06 February, 01st April and from 15 to 29t» May:
+88 COVID deaths reported from 015t to 09 June:
+No COVID deaths reported yesterday (10):
+The Epidemiology Unit of the Ministry of Health yesterday (10) confirmed COVID 19 deaths that
+occurred on 19 days between February 6 and June 09, 2021.
+Death toll due to COVID 19 on 06 February and 01 April and from 15 to 29 May as confirmed
+yesterday (10) by the Director General of Health Services — 13
+Death toll due to COVID 19 from 1+ to 09 June as confirmed yesterday (10) by the Director
+General of Health Services — 88
+No Covid death was reported Yesterday, June 10.
+S2ymrnry 2rd)
         

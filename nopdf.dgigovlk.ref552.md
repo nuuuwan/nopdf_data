@@ -101,9 +101,9 @@
 * Severe COVID pneumonia
 
 
-*No COVID deaths reported today (07):*
-*47 COVID deaths reported from 17 May to 06 June*
-*No COVID 19 death was reported today, June 07, 2021*
-*Death toll due to COVID 19 from May 17 to June 06 as confirmed today (07) by the Director*
-*General of Health Services — 47,*
+No COVID deaths reported today (07):
+47 COVID deaths reported from 17 May to 06 June
+No COVID 19 death was reported today, June 07, 2021
+Death toll due to COVID 19 from May 17 to June 06 as confirmed today (07) by the Director
+General of Health Services — 47,
         
