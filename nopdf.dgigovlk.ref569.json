@@ -1,3 +1,108 @@
 {
-  "ref_no": "569"
+  "ref_no": "569",
+  "unixtime": 1623564000,
+  "datetime": "2021-06-13 06:00",
+  "cum_deaths": 2136,
+  "deaths_by_day": [
+    {
+      "unixtime": 1621728000,
+      "date": "2021-05-23",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1621814400,
+      "date": "2021-05-24",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1621900800,
+      "date": "2021-05-25",
+      "deaths": 3
+    },
+    {
+      "unixtime": 1621987200,
+      "date": "2021-05-26",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1622246400,
+      "date": "2021-05-29",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1622419200,
+      "date": "2021-05-31",
+      "deaths": 1
+    },
+    {
+      "unixtime": 1622505600,
+      "date": "2021-06-01",
+      "deaths": 1
+    },
+    {
+      "unixtime": 1622592000,
+      "date": "2021-06-02",
+      "deaths": 2
+    },
+    {
+      "unixtime": 1622678400,
+      "date": "2021-06-03",
+      "deaths": 1
+    },
+    {
+      "unixtime": 1622764800,
+      "date": "2021-06-04",
+      "deaths": 6
+    },
+    {
+      "unixtime": 1622851200,
+      "date": "2021-06-05",
+      "deaths": 3
+    },
+    {
+      "unixtime": 1623024000,
+      "date": "2021-06-07",
+      "deaths": 3
+    },
+    {
+      "unixtime": 1623110400,
+      "date": "2021-06-08",
+      "deaths": 9
+    },
+    {
+      "unixtime": 1623196800,
+      "date": "2021-06-09",
+      "deaths": 5
+    },
+    {
+      "unixtime": 1623283200,
+      "date": "2021-06-10",
+      "deaths": 10
+    },
+    {
+      "unixtime": 1623369600,
+      "date": "2021-06-11",
+      "deaths": 11
+    }
+  ],
+  "deaths_by_gender": [
+    {
+      "gender": "Female",
+      "deaths": 30
+    },
+    {
+      "gender": "Male",
+      "deaths": 33
+    }
+  ],
+  "uncategorized_text_lines": [
+    "12 COVID deaths reported from 23\"t May to 31st May:",
+    "51 COVID deaths reported from 01st June to 11 June:",
+    "No COVID deaths reported yesterday (12):",
+    "Death toll due to COVID 19 from 23 to 31 May, 2021 as confirmed yesterday (12) by the Director",
+    "General of Health Services \u2014 12",
+    "Death toll due to COVID 19 from 01 to 11 June as confirmed yesterday (12) by the Director General",
+    "of Health Services \u2014 51",
+    "No COVID death was reported so far yesterday, June 12."
+  ]
 }
