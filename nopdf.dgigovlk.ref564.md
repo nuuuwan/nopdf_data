@@ -1,19 +1,7 @@
 
 # Press Release No. 564
-*2021-06-11 19:30*
 
 
-Travel restrictions effective until June 21
-The Island wide travel restrictions now in force will be effective without break until
-4.00 a.m. on Monday June 21 2021, General Shavendra Silva, Commander of the
-Army, Head of the National Operations Centre for Prevention of Covid 19 outbreak
-announces. He further states that travel restrictions will not be relaxed on June 14 as
-previously decided.
-Essential services including food supplies and distribution, apparel and other
-industries, major construction projects, agricultural activities and organic fertilizer
-production are permitted to function during the period of travel restrictions. Rural
-weekly fairs outside the Western Province, are allowed on the scheduled day with
-limited participation.
-Economic centers will be open for two days next week and these dates will be
-announced later, General Shavendra Silva says.
+
+
         
