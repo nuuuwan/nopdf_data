@@ -1,3 +1,9 @@
 {
-  "ref_no": "567"
+  "ref_no": "567",
+  "unixtime": 1623522600,
+  "datetime": "2021-06-12 18:30",
+  "cum_conf": 213724,
+  "cum_conf_new_year": 1633,
+  "cum_conf_patients": 212091,
+  "new_conf": 1633
 }
