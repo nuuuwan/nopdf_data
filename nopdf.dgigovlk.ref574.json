@@ -1,23 +1,60 @@
 {
   "ref_no": "574",
-  "unixtime": 1623618000,
-  "datetime": "2021-06-13 21:00",
-  "deaths_by_age": [
+  "unixtime": 1623704400,
+  "datetime": "2021-06-14 21:00",
+  "deaths_by_age_and_gender": [
     {
       "age_range": [
-        99,
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 5
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 6
+    },
+    {
+      "age_range": [
+        60,
         130
       ],
-      "deaths": 1
+      "gender": "Male",
+      "deaths": 20
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 25
     }
   ],
   "uncategorized_text_lines": [
-    "he Director General of Health Services are as follows.",
-    "Age group Female Male Total",
-    "Between 30-59 years 05 06 ll",
-    "60 years and above 20 25 45",
-    "Total 25 32 57",
-    "SAmwwwy 2) wn",
-    "163, Dnexirsonen novellas, Gar"
+    "Covid Death Figures for 13.06.2021",
+    "Covid 19 related deaths that occurred on 13.06.2021 as confirmed today (14) by",
+    "he Director General of Health Services are as follows."
   ]
 }

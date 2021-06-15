@@ -114,5 +114,4 @@ General of Health Services — 07,
 Death toll due to COVID 19 from 01* June to 10 June as confirmed yesterday (11) by the Director
 General of Health Services — 55
 No COVID death was reported so far yesterday, June 11.
-Slyw., ed) wong
     

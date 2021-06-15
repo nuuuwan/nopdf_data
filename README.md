@@ -1,6 +1,6 @@
 # Summary of COVID19 Press Releases
 Source: [Department of Government Information](https://www.dgi.gov.lk/news/press-releases-sri-lanka/covid-19-documents)
-* [2021-06-13 21:00 (574)](./nopdf.dgigovlk.ref574.md)
+* [2021-06-14 21:00 (574)](./nopdf.dgigovlk.ref574.md)
 * [2021-06-14 20:00 (573)](./nopdf.dgigovlk.ref573.md)
 * [2021-06-14 18:45 (572)](./nopdf.dgigovlk.ref572.md)
 * [2021-06-13 20:45 (571)](./nopdf.dgigovlk.ref571.md)
