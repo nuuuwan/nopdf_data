@@ -1,0 +1,23 @@
+{
+  "ref_no": "574",
+  "unixtime": 1623618000,
+  "datetime": "2021-06-13 21:00",
+  "deaths_by_age": [
+    {
+      "age_range": [
+        99,
+        130
+      ],
+      "deaths": 1
+    }
+  ],
+  "uncategorized_text_lines": [
+    "he Director General of Health Services are as follows.",
+    "Age group Female Male Total",
+    "Between 30-59 years 05 06 ll",
+    "60 years and above 20 25 45",
+    "Total 25 32 57",
+    "SAmwwwy 2) wn",
+    "163, Dnexirsonen novellas, Gar"
+  ]
+}
