@@ -1,31 +1,22 @@
-# nopdf_data 
-
-For generation code and more details see https://github.com/nuuuwan/nopdf. 
-
-## Update History
-* Sun Jun 13 08:03:31 UTC 2021
-* Sun Jun 13 11:42:08 UTC 2021
-* Sun Jun 13 11:54:47 UTC 2021
-* Sun Jun 13 12:03:38 UTC 2021
-* Sun Jun 13 13:12:08 UTC 2021
-* Sun Jun 13 14:03:32 UTC 2021
-* Sun Jun 13 15:03:48 UTC 2021
-* Sun Jun 13 15:30:21 UTC 2021
-* Sun Jun 13 15:40:34 UTC 2021
-* Sun Jun 13 16:05:44 UTC 2021
-* Sun Jun 13 16:18:02 UTC 2021
-* Sun Jun 13 16:35:31 UTC 2021
-* Sun Jun 13 20:03:47 UTC 2021 - cron
-* Mon Jun 14 00:04:09 UTC 2021 - cron
-* Mon Jun 14 04:04:00 UTC 2021 - cron
-* Mon Jun 14 08:04:12 UTC 2021 - cron
-* Mon Jun 14 09:00:43 UTC 2021
-* Mon Jun 14 09:03:04 UTC 2021
-* Mon Jun 14 10:44:15 UTC 2021
-* Mon Jun 14 10:44:42 UTC 2021
-* Mon Jun 14 10:46:32 UTC 2021
-* Mon Jun 14 12:01:53 UTC 2021 - cron
-* Mon Jun 14 16:03:32 UTC 2021 - cron
-* Mon Jun 14 20:01:55 UTC 2021 - cron
-* Tue Jun 15 00:01:45 UTC 2021 - cron
-* Tue Jun 15 04:02:06 UTC 2021 - cron
+# Summary of COVID19 Press Releases
+Source: [Department of Government Information](https://www.dgi.gov.lk/news/press-releases-sri-lanka/covid-19-documents)
+* [2021-06-13 21:00 (574)](./nopdf.dgigovlk.ref574.md)
+* [2021-06-14 20:00 (573)](./nopdf.dgigovlk.ref573.md)
+* [2021-06-14 18:45 (572)](./nopdf.dgigovlk.ref572.md)
+* [2021-06-13 20:45 (571)](./nopdf.dgigovlk.ref571.md)
+* [2021-06-13 18:20 (570)](./nopdf.dgigovlk.ref570.md)
+* [2021-06-13 06:00 (569)](./nopdf.dgigovlk.ref569.md)
+* [2021-06-12 20:00 (568)](./nopdf.dgigovlk.ref568.md)
+* [2021-06-12 18:30 (567)](./nopdf.dgigovlk.ref567.md)
+* [2021-06-12 03:00 (566)](./nopdf.dgigovlk.ref566.md)
+* [2021-06-11 19:30 (564)](./nopdf.dgigovlk.ref564.md)
+* [2021-06-11 18:45 (563)](./nopdf.dgigovlk.ref563.md)
+* [2021-06-11 13:00 (562)](./nopdf.dgigovlk.ref562.md)
+* [2021-06-11 08:30 (561)](./nopdf.dgigovlk.ref561.md)
+* [2021-06-10 20:45 (560)](./nopdf.dgigovlk.ref560.md)
+* [2021-06-10 19:00 (559)](./nopdf.dgigovlk.ref559.md)
+* [2021-06-09 22:30 (558)](./nopdf.dgigovlk.ref558.md)
+* [2021-06-09 20:10 (557)](./nopdf.dgigovlk.ref557.md)
+* [2021-06-09 18:45 (556)](./nopdf.dgigovlk.ref556.md)
+* [2021-06-08 21:30 (555)](./nopdf.dgigovlk.ref555.md)
+* [2021-06-08 21:00 (554)](./nopdf.dgigovlk.ref554.md)
