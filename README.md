@@ -1,5 +1,6 @@
 # Summary of COVID19 Press Releases
 Source: [Department of Government Information](https://www.dgi.gov.lk/news/press-releases-sri-lanka/covid-19-documents)
+
 577. [2021-06-15 20:15](./nopdf.dgigovlk.ref577.md)
   * Total cases: 221294. New cases: 2275
 576. [2021-06-15 19:15](./nopdf.dgigovlk.ref576.md)
