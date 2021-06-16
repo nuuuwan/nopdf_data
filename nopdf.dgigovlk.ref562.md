@@ -628,12 +628,12 @@ Director General of Government information
 
 ### Page 001
 
-![page_no](./nopdf.dgigovlk.ref562.page001.jpeg)
+![page_no](https://raw.githubusercontent.com/nuuuwan/nopdf_data/main/nopdf.dgigovlk.ref562.page001.jpeg)
         
 
 ### Page 002
 
-![page_no](./nopdf.dgigovlk.ref562.page002.jpeg)
+![page_no](https://raw.githubusercontent.com/nuuuwan/nopdf_data/main/nopdf.dgigovlk.ref562.page002.jpeg)
         
 
 ...

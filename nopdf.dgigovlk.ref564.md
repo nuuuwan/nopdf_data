@@ -87,7 +87,7 @@ Director General of Government Information
 
 ### Page 001
 
-![page_no](./nopdf.dgigovlk.ref564.page001.jpeg)
+![page_no](https://raw.githubusercontent.com/nuuuwan/nopdf_data/main/nopdf.dgigovlk.ref564.page001.jpeg)
         
 
 ...
