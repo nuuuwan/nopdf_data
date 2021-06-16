@@ -148,7 +148,7 @@ Director General of Government Information
 
 ### Page 001
 
-![page_no](./nopdf.dgigovlk.ref574.page001.jpeg)
+![page_no](nopdf.dgigovlk.ref574.page001.jpeg)
         
 
 ...
