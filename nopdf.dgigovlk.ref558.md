@@ -415,6 +415,10 @@ General of Health Services — 48.
     "General of Health Services - 19",
     "Death toll due to COVID 19 from June 01 to June 08 as confirmed today (09) by the Director",
     "General of Health Services \u2014 48."
+  ],
+  "page_nos": [
+    "001",
+    "002"
   ]
 }
 ```

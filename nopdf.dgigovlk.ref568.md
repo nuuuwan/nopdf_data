@@ -19,7 +19,10 @@
   "cum_conf": 214431,
   "cum_conf_new_year": 707,
   "cum_conf_patients": 213724,
-  "new_conf": 2340
+  "new_conf": 2340,
+  "page_nos": [
+    "001"
+  ]
 }
 ```
 

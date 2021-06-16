@@ -361,6 +361,10 @@ No COVID death was reported so far yesterday, June 11.
     "Death toll due to COVID 19 from 01* June to 10 June as confirmed yesterday (11) by the Director",
     "General of Health Services \u2014 55",
     "No COVID death was reported so far yesterday, June 11."
+  ],
+  "page_nos": [
+    "001",
+    "002"
   ]
 }
 ```

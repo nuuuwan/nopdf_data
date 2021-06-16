@@ -77,6 +77,9 @@ he Director General of Health Services are as follows.
     "Covid Death Figures for 13.06.2021",
     "Covid 19 related deaths that occurred on 13.06.2021 as confirmed today (14) by",
     "he Director General of Health Services are as follows."
+  ],
+  "page_nos": [
+    "001"
   ]
 }
 ```

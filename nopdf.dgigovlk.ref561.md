@@ -255,6 +255,10 @@ Operations Center for Prevention of Covid 19 outbreak.
     "announced General Shavendra Silva, Commander of the Army, Head of the National",
     "Operations Center for Prevention of Covid 19 outbreak.",
     "163, Dgerrionen sos, Gay"
+  ],
+  "page_nos": [
+    "001",
+    "002"
   ]
 }
 ```
