@@ -70,6 +70,7 @@
       "deaths": 5
     }
   ],
+  "new_deaths": 62,
   "deaths_by_gender": [
     {
       "gender": "Female",

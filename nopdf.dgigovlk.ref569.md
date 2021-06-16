@@ -2,6 +2,7 @@
 # Press Release No. 569
 *2021-06-13 06:00*
 ## Statistics
+* New Deaths: 63
 * Total Deaths: 2136
 ### Deaths by Day
 * 2021-05-23: 2
@@ -216,6 +217,7 @@ No COVID death was reported so far yesterday, June 12.
       "deaths": 11
     }
   ],
+  "new_deaths": 63,
   "deaths_by_gender": [
     {
       "gender": "Female",

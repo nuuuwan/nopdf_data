@@ -1,7 +1,7 @@
 {
-  "ref_no": "574",
-  "unixtime": 1623704400,
-  "datetime": "2021-06-14 21:00",
+  "ref_no": "576",
+  "unixtime": 1623784500,
+  "datetime": "2021-06-15 19:15",
   "deaths_by_age_and_gender": [
     {
       "age_range": [
@@ -17,7 +17,7 @@
         30
       ],
       "gender": "Female",
-      "deaths": 1
+      "deaths": 0
     },
     {
       "age_range": [
@@ -25,23 +25,23 @@
         60
       ],
       "gender": "Male",
-      "deaths": 5
-    },
-    {
-      "age_range": [
-        30,
-        60
-      ],
-      "gender": "Female",
       "deaths": 6
     },
     {
       "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 5
+    },
+    {
+      "age_range": [
         60,
         130
       ],
       "gender": "Male",
-      "deaths": 20
+      "deaths": 16
     },
     {
       "age_range": [
@@ -49,13 +49,13 @@
         130
       ],
       "gender": "Female",
-      "deaths": 25
+      "deaths": 28
     }
   ],
-  "new_deaths": 57,
+  "new_deaths": 55,
   "uncategorized_text_lines": [
-    "Covid Death Figures for 13.06.2021",
-    "Covid 19 related deaths that occurred on 13.06.2021 as confirmed today (14) by",
+    "Covid Death Figures for 14.06.2021",
+    "Covid 19 related deaths that occurred on 14.06.2021 as confirmed today (15) by",
     "he Director General of Health Services are as follows."
   ]
 }

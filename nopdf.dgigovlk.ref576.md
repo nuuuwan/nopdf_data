@@ -1,27 +1,27 @@
 
-# Press Release No. 574
-*2021-06-14 21:00*
+# Press Release No. 576
+*2021-06-15 19:15*
 ## Statistics
-* New Deaths: 57
+* New Deaths: 55
 ### Deaths by Age and Gender
 * 0 to 30 + Male: 0
-* 0 to 30 + Female: 1
-* 30 to 60 + Male: 5
-* 30 to 60 + Female: 6
-* 60 to 130 + Male: 20
-* 60 to 130 + Female: 25
+* 0 to 30 + Female: 0
+* 30 to 60 + Male: 6
+* 30 to 60 + Female: 5
+* 60 to 130 + Male: 16
+* 60 to 130 + Female: 28
 
 
-Covid Death Figures for 13.06.2021
-Covid 19 related deaths that occurred on 13.06.2021 as confirmed today (14) by
+Covid Death Figures for 14.06.2021
+Covid 19 related deaths that occurred on 14.06.2021 as confirmed today (15) by
 he Director General of Health Services are as follows.
 
 ## Appendix: Structured Information
 ```json
 {
-  "ref_no": "574",
-  "unixtime": 1623704400,
-  "datetime": "2021-06-14 21:00",
+  "ref_no": "576",
+  "unixtime": 1623784500,
+  "datetime": "2021-06-15 19:15",
   "deaths_by_age_and_gender": [
     {
       "age_range": [
@@ -37,7 +37,7 @@ he Director General of Health Services are as follows.
         30
       ],
       "gender": "Female",
-      "deaths": 1
+      "deaths": 0
     },
     {
       "age_range": [
@@ -45,23 +45,23 @@ he Director General of Health Services are as follows.
         60
       ],
       "gender": "Male",
-      "deaths": 5
-    },
-    {
-      "age_range": [
-        30,
-        60
-      ],
-      "gender": "Female",
       "deaths": 6
     },
     {
       "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 5
+    },
+    {
+      "age_range": [
         60,
         130
       ],
       "gender": "Male",
-      "deaths": 20
+      "deaths": 16
     },
     {
       "age_range": [
@@ -69,13 +69,13 @@ he Director General of Health Services are as follows.
         130
       ],
       "gender": "Female",
-      "deaths": 25
+      "deaths": 28
     }
   ],
-  "new_deaths": 57,
+  "new_deaths": 55,
   "uncategorized_text_lines": [
-    "Covid Death Figures for 13.06.2021",
-    "Covid 19 related deaths that occurred on 13.06.2021 as confirmed today (14) by",
+    "Covid Death Figures for 14.06.2021",
+    "Covid 19 related deaths that occurred on 14.06.2021 as confirmed today (15) by",
     "he Director General of Health Services are as follows."
   ]
 }
@@ -89,19 +89,18 @@ Department of Government Information
 
  
 
-14.06.2021
-Release No: 574/2021
-Time:21.00
+15.06.2021
+Release No: 576/2021
+
+Time:19.15
 
 Chief Editor / News Editor
 Director (News)/ News manager
 
-Covid Death Figures for 13.06.2021
+Covid Death Figures for 14.06.2021
 
-Covid 19 related deaths that occurred on 13.06.2021 as confirmed today (14) by
+Covid 19 related deaths that occurred on 14.06.2021 as confirmed today (15) by
 he Director General of Health Services are as follows.
-
- 
 
  
 
@@ -122,10 +121,10 @@ he Director General of Health Services are as follows.
  
 
 Age group Female Male Total
-Below 30 years - 01 01
-Between 30-59 years 05 06 ll
-60 years and above 20 25 45
-Total 25 32 57
+Below 30 years - - -
+Between 30-59 years 06 05 ll
+60 years and above 16 28 44
+Total 22 33 55
 
  
 
@@ -133,7 +132,7 @@ SAmwwwy 2) wn
 Mohan Samaranayake
 Director General of Government Information
 
-. (+94 11) 2515759
+(+94 11) 2515759
 (+94 11) 2514753
 
  
@@ -143,6 +142,8 @@ Director General of Government Information
 163, Dnexirsonen novellas, Gar
 
  
+
+ 
 
 ```
 
@@ -150,7 +151,7 @@ Director General of Government Information
 
 ### Page 001
 
-![page_no](https://raw.githubusercontent.com/nuuuwan/nopdf_data/main/nopdf.dgigovlk.ref574.page001.jpeg)
+![page_no](https://raw.githubusercontent.com/nuuuwan/nopdf_data/main/nopdf.dgigovlk.ref576.page001.jpeg)
         
 
 ...

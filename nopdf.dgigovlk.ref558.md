@@ -2,6 +2,7 @@
 # Press Release No. 558
 *2021-06-09 22:30*
 ## Statistics
+* New Deaths: 57
 * Total Deaths: 1910
 ### Deaths by Day
 * 2021-05-17: 3
@@ -231,6 +232,7 @@ General of Health Services — 48.
       "deaths": 4
     }
   ],
+  "new_deaths": 57,
   "deaths_by_gender": [
     {
       "gender": "Female",

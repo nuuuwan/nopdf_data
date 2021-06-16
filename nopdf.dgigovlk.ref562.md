@@ -2,6 +2,7 @@
 # Press Release No. 562
 *2021-06-11 13:00*
 ## Statistics
+* New Deaths: 101
 * Total Deaths: 2011
 ### Deaths by Day
 * 2021-02-06: 1
@@ -271,6 +272,7 @@ S2ymrnry 2rd)
       "deaths": 2
     }
   ],
+  "new_deaths": 101,
   "deaths_by_gender": [
     {
       "gender": "Female",
