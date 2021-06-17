@@ -34,13 +34,28 @@
       ],
       "gender": "Female",
       "deaths": 13
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 21
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 17
     }
   ],
-  "new_deaths": 21,
+  "new_deaths": 59,
   "uncategorized_text_lines": [
     "Covid Death Figures for 15.06.2021",
     "Covid 19 related deaths that occurred on 15.06.2021 as confirmed today (16) by",
-    "he Director General of Health Services are as follows.",
-    "60 years and above 2A, 17 38"
+    "he Director General of Health Services are as follows."
   ]
 }

@@ -2,18 +2,19 @@
 # Press Release No. 580
 *2021-06-16 21:35*
 ## Statistics
-* New Deaths: 21
+* New Deaths: 59
 ### Deaths by Age and Gender
 * 0 to 30 + Male: 0
 * 0 to 30 + Female: 1
 * 30 to 60 + Male: 7
 * 30 to 60 + Female: 13
+* 60 to 130 + Male: 21
+* 60 to 130 + Female: 17
 
 
 Covid Death Figures for 15.06.2021
 Covid 19 related deaths that occurred on 15.06.2021 as confirmed today (16) by
 he Director General of Health Services are as follows.
-60 years and above 2A, 17 38
 
 ## Appendix: Structured Information
 ```json
@@ -53,14 +54,29 @@ he Director General of Health Services are as follows.
       ],
       "gender": "Female",
       "deaths": 13
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 21
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 17
     }
   ],
-  "new_deaths": 21,
+  "new_deaths": 59,
   "uncategorized_text_lines": [
     "Covid Death Figures for 15.06.2021",
     "Covid 19 related deaths that occurred on 15.06.2021 as confirmed today (16) by",
-    "he Director General of Health Services are as follows.",
-    "60 years and above 2A, 17 38"
+    "he Director General of Health Services are as follows."
   ],
   "page_nos": [
     "001"
