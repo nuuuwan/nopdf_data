@@ -1,0 +1,46 @@
+{
+  "ref_no": "580",
+  "unixtime": 1623879300,
+  "datetime": "2021-06-16 21:35",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 7
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 13
+    }
+  ],
+  "new_deaths": 21,
+  "uncategorized_text_lines": [
+    "Covid Death Figures for 15.06.2021",
+    "Covid 19 related deaths that occurred on 15.06.2021 as confirmed today (16) by",
+    "he Director General of Health Services are as follows.",
+    "60 years and above 2A, 17 38"
+  ]
+}
