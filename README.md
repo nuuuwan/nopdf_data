@@ -4,6 +4,12 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+583. [2021-06-17 22:10](./nopdf.dgigovlk.ref583.md)
+  * New deaths: 51
+582. [2021-06-17 20:45](./nopdf.dgigovlk.ref582.md)
+  * Total cases: 226074; New cases: 2361
+581. [2021-06-17 19:00](./nopdf.dgigovlk.ref581.md)
+  * Total cases: 225548; New cases: 1835
 580. [2021-06-16 21:35](./nopdf.dgigovlk.ref580.md)
   * New deaths: 59
 579. [2021-06-16 21:15](./nopdf.dgigovlk.ref579.md)
@@ -40,9 +46,3 @@ The Island wide travel restrictions now in force will be effective without break
 4.00 a...
 563. [2021-06-11 18:45](./nopdf.dgigovlk.ref563.md)
   * Total cases: 211564; New cases: 2232
-562. [2021-06-11 13:00](./nopdf.dgigovlk.ref562.md)
-  * Total deaths: 2011; New deaths: 101
-561. [2021-06-11 08:30](./nopdf.dgigovlk.ref561.md)
-  * Some areas in districts Batticaloa, Gampaha, Hambantota, Kalutara, Moneragala, Nuwara Eliya, Trincomalee released from isolation
-560. [2021-06-10 20:45](./nopdf.dgigovlk.ref560.md)
-  * Total cases: 209332; New cases: 2715

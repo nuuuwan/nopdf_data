@@ -1,0 +1,61 @@
+{
+  "ref_no": "583",
+  "unixtime": 1623967800,
+  "datetime": "2021-06-17 22:10",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 5
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 9
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 15
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 22
+    }
+  ],
+  "new_deaths": 51,
+  "uncategorized_text_lines": [
+    "Covid Death Figures for 16.06.2021",
+    "Covid 19 related deaths that occurred on 16.06.2021 as confirmed today (17) by",
+    "he Director General of Health Services are as follows."
+  ]
+}
