@@ -1,0 +1,65 @@
+{
+  "ref_no": "589",
+  "unixtime": 1624130100,
+  "datetime": "2021-06-19 19:15",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 4
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 5
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 18
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 25
+    }
+  ],
+  "new_deaths": 54,
+  "uncategorized_text_lines": [
+    "Covid Death Figures for 18.06.2021",
+    "Covid 19 related deaths that occurred on 18.06.2021 as confirmed today (19) by",
+    "he Director General of Health Services are as follows.",
+    "SPywww > Ian",
+    "709 OL, Om 06, ,",
+    "Aryerinionan sevehlyy, Gor",
+    "05, Rartens,"
+  ]
+}

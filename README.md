@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+589. [2021-06-19 19:15](./nopdf.dgigovlk.ref589.md)
+  * New deaths: 54
 587. [2021-06-18 22:15](./nopdf.dgigovlk.ref587.md)
   * Total cases: 228401; New cases: 2327
 586. [2021-06-18 20:45](./nopdf.dgigovlk.ref586.md)
@@ -36,9 +38,3 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
   * Total cases: 218540; New cases: 1780
 571. [2021-06-13 20:45](./nopdf.dgigovlk.ref571.md)
   * Total cases: 216760; New cases: 2329
-570. [2021-06-13 18:20](./nopdf.dgigovlk.ref570.md)
-  * Total cases: 216317; New cases: 1886
-569. [2021-06-13 06:00](./nopdf.dgigovlk.ref569.md)
-  * Total deaths: 2136; New deaths: 63
-568. [2021-06-12 20:00](./nopdf.dgigovlk.ref568.md)
-  * Total cases: 214431; New cases: 2340
