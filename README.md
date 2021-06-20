@@ -4,6 +4,12 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+587. [2021-06-18 22:15](./nopdf.dgigovlk.ref587.md)
+  * Total cases: 228401; New cases: 2327
+586. [2021-06-18 20:45](./nopdf.dgigovlk.ref586.md)
+  * New deaths: 55
+585. [2021-06-18 19:00](./nopdf.dgigovlk.ref585.md)
+  * Total cases: 227634; New cases: 1560
 583. [2021-06-17 22:10](./nopdf.dgigovlk.ref583.md)
   * New deaths: 51
 582. [2021-06-17 20:45](./nopdf.dgigovlk.ref582.md)
@@ -36,13 +42,3 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
   * Total deaths: 2136; New deaths: 63
 568. [2021-06-12 20:00](./nopdf.dgigovlk.ref568.md)
   * Total cases: 214431; New cases: 2340
-567. [2021-06-12 18:30](./nopdf.dgigovlk.ref567.md)
-  * Total cases: 213724; New cases: 1633
-566. [2021-06-12 03:00](./nopdf.dgigovlk.ref566.md)
-  * Total deaths: 2073; New deaths: 62
-564. [2021-06-11 19:30](./nopdf.dgigovlk.ref564.md)
-  * Travel restrictions effective until June 21
-The Island wide travel restrictions now in force will be effective without break until
-4.00 a...
-563. [2021-06-11 18:45](./nopdf.dgigovlk.ref563.md)
-  * Total cases: 211564; New cases: 2232
