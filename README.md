@@ -4,10 +4,22 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+594. [2021-06-20 20:20](./nopdf.dgigovlk.ref594.md)
+  * Total cases: 232578; New cases: 2008
+593. [2020-06-20 18:35](./nopdf.dgigovlk.ref593.md)
+  * DAIFIHs BHEasd Honewtadaserd
+Mathale, Puttalam, Nuwara Eliya, Galle, Mathara and Colombo Districts newly isolated on June
+Gampaha, Trinco...
 592. [2021-06-20 18:30](./nopdf.dgigovlk.ref592.md)
   * New deaths: 47
+591. [2021-06-20 18:30](./nopdf.dgigovlk.ref591.md)
+  * Total cases: 232123; New cases: 1553
+590. [2021-06-19 21:15](./nopdf.dgigovlk.ref590.md)
+  * Total cases: 230570; New cases: 2169
 589. [2021-06-19 19:15](./nopdf.dgigovlk.ref589.md)
   * New deaths: 54
+588. [2021-06-19 19:10](./nopdf.dgigovlk.ref588.md)
+  * Total cases: 229821; New cases: 1420
 587. [2021-06-18 22:15](./nopdf.dgigovlk.ref587.md)
   * Total cases: 228401; New cases: 2327
 586. [2021-06-18 20:45](./nopdf.dgigovlk.ref586.md)
