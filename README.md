@@ -7,9 +7,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 594. [2021-06-20 20:20](./nopdf.dgigovlk.ref594.md)
   * Total cases: 232578; New cases: 2008
 593. [2020-06-20 18:35](./nopdf.dgigovlk.ref593.md)
-  * DAIFIHs BHEasd Honewtadaserd
-Mathale, Puttalam, Nuwara Eliya, Galle, Mathara and Colombo Districts newly isolated on June
-Gampaha, Trinco...
+  * 24 GN Divisions and Areas in Gampaha, Ampara, Batticaloa, Rathnapura, Kaluthara, Jaffna,
+Mathale, Puttalam, Nuwara Eliya, Galle, Mathara ...
 592. [2021-06-20 18:30](./nopdf.dgigovlk.ref592.md)
   * New deaths: 47
 591. [2021-06-20 18:30](./nopdf.dgigovlk.ref591.md)
