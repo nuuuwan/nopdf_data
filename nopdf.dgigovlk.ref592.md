@@ -2,10 +2,12 @@
 # Press Release No. 592
 *2021-06-20 18:30*
 ## Statistics
-* New Deaths: 41
+* New Deaths: 47
 ### Deaths by Age and Gender
 * 0 to 30 + Male: 0
 * 0 to 30 + Female: 1
+* 30 to 60 + Male: 1
+* 30 to 60 + Female: 5
 * 60 to 130 + Male: 19
 * 60 to 130 + Female: 21
 
@@ -13,7 +15,6 @@
 Covid Death Figures for 19.06.2021
 Covid 19 related deaths that occurred on 19.06.2021 as confirmed today (20) by
 he Director General of Health Services are as follows.
-Between 30-59 years Ol 05 06
 SPywww > Ian
 709 OL, Om 06, ,
 Aryerinionan sevehlyy, Gor
@@ -44,6 +45,22 @@ Aryerinionan sevehlyy, Gor
     },
     {
       "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 5
+    },
+    {
+      "age_range": [
         60,
         130
       ],
@@ -59,12 +76,11 @@ Aryerinionan sevehlyy, Gor
       "deaths": 21
     }
   ],
-  "new_deaths": 41,
+  "new_deaths": 47,
   "uncategorized_text_lines": [
     "Covid Death Figures for 19.06.2021",
     "Covid 19 related deaths that occurred on 19.06.2021 as confirmed today (20) by",
     "he Director General of Health Services are as follows.",
-    "Between 30-59 years Ol 05 06",
     "SPywww > Ian",
     "709 OL, Om 06, ,",
     "Aryerinionan sevehlyy, Gor",

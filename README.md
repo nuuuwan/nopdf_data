@@ -5,7 +5,7 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 592. [2021-06-20 18:30](./nopdf.dgigovlk.ref592.md)
-  * New deaths: 41
+  * New deaths: 47
 589. [2021-06-19 19:15](./nopdf.dgigovlk.ref589.md)
   * New deaths: 54
 587. [2021-06-18 22:15](./nopdf.dgigovlk.ref587.md)
