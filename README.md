@@ -4,6 +4,12 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+597. [2021-06-21 20:25](./nopdf.dgigovlk.ref597.md)
+  * Total cases: 234676; New cases: 2098
+596. [2021-06-21 18:45](./nopdf.dgigovlk.ref596.md)
+  * Total cases: 234309; New cases: 1731
+595. [2021-06-21 18:40](./nopdf.dgigovlk.ref595.md)
+  * New deaths: 52
 594. [2021-06-20 20:20](./nopdf.dgigovlk.ref594.md)
   * Total cases: 232578; New cases: 2008
 593. [2020-06-20 18:35](./nopdf.dgigovlk.ref593.md)
@@ -37,9 +43,3 @@ Mathale, Puttalam, Nuwara Eliya, Galle, Mathara ...
   * New cases: 2419
 578. [2021-06-16 18:45](./nopdf.dgigovlk.ref578.md)
   * Total cases: 222925; New cases: 1631
-577. [2021-06-15 20:15](./nopdf.dgigovlk.ref577.md)
-  * Total cases: 221294; New cases: 2275
-576. [2021-06-15 19:15](./nopdf.dgigovlk.ref576.md)
-  * New deaths: 55
-575. [2021-06-15 18:45](./nopdf.dgigovlk.ref575.md)
-  * Total cases: 220862; New cases: 1843
