@@ -11,9 +11,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 599. [2021-06-22 18:45](./nopdf.dgigovlk.ref599.md)
   * Total cases: 235996; New cases: 1320
 598. [2021-06-22 08:45](./nopdf.dgigovlk.ref598.md)
-  * ff s) Scied HOasS semimeScs—eO
-Y ayers sessed Henesrsaenid
-Two Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts Ne...
+  * Two Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts Newly
+Isolated status lifted for one Grama Niladhari Division...
 597. [2021-06-21 20:25](./nopdf.dgigovlk.ref597.md)
   * Total cases: 234676; New cases: 2098
 596. [2021-06-21 18:45](./nopdf.dgigovlk.ref596.md)

@@ -3,8 +3,6 @@
 *2021-06-22 08:45*
 
 
-ff s) Scied HOasS semimeScs—eO
-Y ayers sessed Henesrsaenid
 Two Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts Newly
 Isolated status lifted for one Grama Niladhari Division in Gampaha District
 Following Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts have been
@@ -25,8 +23,6 @@ e George Avenue Kerangapokuna
   "unixtime": 1624351500,
   "datetime": "2021-06-22 08:45",
   "uncategorized_text_lines": [
-    "ff s) Scied HOasS semimeScs\u2014eO",
-    "Y ayers sessed Henesrsaenid",
     "Two Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts Newly",
     "Isolated status lifted for one Grama Niladhari Division in Gampaha District",
     "Following Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts have been",
