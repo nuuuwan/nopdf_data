@@ -1,0 +1,62 @@
+{
+  "ref_no": "604",
+  "unixtime": 1624477500,
+  "datetime": "2021-06-23 19:45",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 4
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 6
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 20
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 33
+    }
+  ],
+  "new_deaths": 65,
+  "uncategorized_text_lines": [
+    "Covid death figures reported today 23.06.2021",
+    "Covid death figures that were reported today June 23, 2021 after confirmed by",
+    "he Director General of Health Services yesterday (22) are as follows.",
+    "3, Ayerniean"
+  ]
+}
