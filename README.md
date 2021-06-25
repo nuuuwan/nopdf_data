@@ -4,6 +4,17 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+609. [2021-06-25 09:00](./nopdf.dgigovlk.ref609.md)
+  * 68ed HOass semboneSasqQo
+DFIHs HHousd Honemabsentd
+Ten Grama Niladhari Divisions and Areas in Badulla, Kaluthara, Mannar
+Jaffna and Rathn...
+608. [2021-06-24 20:40](./nopdf.dgigovlk.ref608.md)
+  * Total cases: 240842; New cases: 1917
+607. [2021-06-24 19:20](./nopdf.dgigovlk.ref607.md)
+  * New deaths: 45
+606. [2021-06-24 19:15](./nopdf.dgigovlk.ref606.md)
+  * Total cases: 240153; New cases: 1228
 605. [2021-06-23 21:00](./nopdf.dgigovlk.ref605.md)
   * Total cases: 238925; New cases: 2178
 604. [2021-06-23 19:45](./nopdf.dgigovlk.ref604.md)
@@ -34,11 +45,3 @@ Mathale, Puttalam, Nuwara Eliya, Galle, Mathara ...
   * New deaths: 47
 591. [2021-06-20 18:30](./nopdf.dgigovlk.ref591.md)
   * Total cases: 232123; New cases: 1553
-590. [2021-06-19 21:15](./nopdf.dgigovlk.ref590.md)
-  * Total cases: 230570; New cases: 2169
-589. [2021-06-19 19:15](./nopdf.dgigovlk.ref589.md)
-  * New deaths: 54
-588. [2021-06-19 19:10](./nopdf.dgigovlk.ref588.md)
-  * Total cases: 229821; New cases: 1420
-587. [2021-06-18 22:15](./nopdf.dgigovlk.ref587.md)
-  * Total cases: 228401; New cases: 2327
