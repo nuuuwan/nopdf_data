@@ -4,6 +4,32 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+620. [2021-06-27 21:50](./nopdf.dgigovlk.ref620.md)
+  * Total cases: 246269; New cases: 1767
+619. [2021-06-27 19:20](./nopdf.dgigovlk.ref619.md)
+  * Total cases: 245747; New cases: 1245
+618. [2021-06-27 18:05](./nopdf.dgigovlk.ref618.md)
+  * New deaths: 39
+617. [2021-06-27 09:00](./nopdf.dgigovlk.ref617.md)
+  * Ssed HOasG eembmeSadqQo
+AFIS HHusd Honemabsenid
+Five Grama Niladhari Divisions and Areas in Colombo, Rathnapura and Nuwara Eliya
+District...
+616. [2021-06-26 22:25](./nopdf.dgigovlk.ref616.md)
+  * Total cases: 244502; New cases: 1801
+615. [2021-06-26 18:55](./nopdf.dgigovlk.ref615.md)
+  * Total cases: 243787; New cases: 1086
+614. [2021-06-26 16:45](./nopdf.dgigovlk.ref614.md)
+  * New deaths: 43
+613. [2021-06-26 10:00](./nopdf.dgigovlk.ref613.md)
+  * Ssed HOHass semboneSasqQo
+DAFIHs HHousd Honomabsenid
+04 Grama Niladhari Divisions and Areas in Kegalle District Newly Isolated:
+Isolated ...
+612. [2021-06-25 22:10](./nopdf.dgigovlk.ref612.md)
+  * Total cases: 242701; New cases: 1859
+611. [2021-06-25 19:20](./nopdf.dgigovlk.ref611.md)
+  * New deaths: 48
 610. [2021-06-25 18:55](./nopdf.dgigovlk.ref610.md)
   * Total cases: 242081; New cases: 1239
 609. [2021-06-25 09:00](./nopdf.dgigovlk.ref609.md)
@@ -25,23 +51,3 @@ Jaffna and Rathn...
   * Total cases: 238105; New cases: 1358
 601. [2021-06-22 20:40](./nopdf.dgigovlk.ref601.md)
   * Total cases: 236747; New cases: 2071
-600. [2021-06-22 19:15](./nopdf.dgigovlk.ref600.md)
-  * New deaths: 71
-599. [2021-06-22 18:45](./nopdf.dgigovlk.ref599.md)
-  * Total cases: 235996; New cases: 1320
-598. [2021-06-22 08:45](./nopdf.dgigovlk.ref598.md)
-  * Two Grama Niladhari Divisions and Areas in Rathnapura and Colombo Districts Newly
-Isolated status lifted for one Grama Niladhari Division...
-597. [2021-06-21 20:25](./nopdf.dgigovlk.ref597.md)
-  * Total cases: 234676; New cases: 2098
-596. [2021-06-21 18:45](./nopdf.dgigovlk.ref596.md)
-  * Total cases: 234309; New cases: 1731
-595. [2021-06-21 18:40](./nopdf.dgigovlk.ref595.md)
-  * New deaths: 52
-594. [2021-06-20 20:20](./nopdf.dgigovlk.ref594.md)
-  * Total cases: 232578; New cases: 2008
-593. [2020-06-20 18:35](./nopdf.dgigovlk.ref593.md)
-  * 24 GN Divisions and Areas in Gampaha, Ampara, Batticaloa, Rathnapura, Kaluthara, Jaffna,
-Mathale, Puttalam, Nuwara Eliya, Galle, Mathara ...
-591. [2021-06-20 18:30](./nopdf.dgigovlk.ref591.md)
-  * Total cases: 232123; New cases: 1553

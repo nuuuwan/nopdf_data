@@ -1,0 +1,63 @@
+{
+  "ref_no": "611",
+  "unixtime": 1624648800,
+  "datetime": "2021-06-25 19:20",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 4
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 7
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 18
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 19
+    }
+  ],
+  "new_deaths": 48,
+  "uncategorized_text_lines": [
+    "Release No:61 1/2021",
+    "Covid death figures reported today 25.06.2021",
+    "Covid death figures that were reported today June 25, 2021 after confirmed by",
+    "he Director General of Health Services yesterday (24) are as follows.",
+    "3, Ayerniean"
+  ]
+}
