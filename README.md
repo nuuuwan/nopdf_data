@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+610. [2021-06-25 18:55](./nopdf.dgigovlk.ref610.md)
+  * Total cases: 242081; New cases: 1239
 609. [2021-06-25 09:00](./nopdf.dgigovlk.ref609.md)
   * 68ed HOass semboneSasqQo
 DFIHs HHousd Honemabsentd
@@ -41,7 +43,5 @@ Isolated status lifted for one Grama Niladhari Division...
 593. [2020-06-20 18:35](./nopdf.dgigovlk.ref593.md)
   * 24 GN Divisions and Areas in Gampaha, Ampara, Batticaloa, Rathnapura, Kaluthara, Jaffna,
 Mathale, Puttalam, Nuwara Eliya, Galle, Mathara ...
-592. [2021-06-20 18:30](./nopdf.dgigovlk.ref592.md)
-  * New deaths: 47
 591. [2021-06-20 18:30](./nopdf.dgigovlk.ref591.md)
   * Total cases: 232123; New cases: 1553
