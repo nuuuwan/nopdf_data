@@ -1,0 +1,61 @@
+{
+  "ref_no": "623",
+  "unixtime": 1624905600,
+  "datetime": "2021-06-28 18:40",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 3
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 3
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 13
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 20
+    }
+  ],
+  "new_deaths": 41,
+  "uncategorized_text_lines": [
+    "Covid death figures reported today 28.06.2021",
+    "Covid 19 death figures that were reported today June 28, 2021 after confirmed",
+    "by the Director General of Health Services yesterday (27) are as follows."
+  ]
+}
