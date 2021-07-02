@@ -1,0 +1,63 @@
+{
+  "ref_no": "626",
+  "unixtime": 1624992300,
+  "datetime": "2021-06-29 18:45",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 5
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 7
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 19
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 13
+    }
+  ],
+  "new_deaths": 45,
+  "uncategorized_text_lines": [
+    "Release No:626/2021",
+    "Covid death figures reported today 29.06.2021",
+    "Covid 19 death figures that were reported today June 29, 2021 after confirmed",
+    "by the Director General of Health Services yesterday (28) are as follows.",
+    "3, Ayerniean"
+  ]
+}
