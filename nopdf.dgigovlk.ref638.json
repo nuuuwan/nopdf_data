@@ -1,0 +1,62 @@
+{
+  "ref_no": "638",
+  "unixtime": 1625248200,
+  "datetime": "2021-07-02 17:50",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 1
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 5
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 3
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 19
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 9
+    }
+  ],
+  "new_deaths": 37,
+  "uncategorized_text_lines": [
+    "Covid death figures reported today 02.07.2021",
+    "Covid 19 death figures that were reported today July 02, 2021 after confirmed",
+    "by the Director General of Health Services yesterday (01) are as follows.",
+    "Age group Male Female Total"
+  ]
+}

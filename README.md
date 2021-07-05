@@ -4,6 +4,32 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+645. [2021-07-04 09:00](./nopdf.dgigovlk.ref645.md)
+  * ose [Has csoembmeSedq—noO
+DFS HSE Honewtadsenrd
+An area in a Grama Niladhari Division in Kandy District Newly Isolated: Isolated status l...
+644. [2021-07-03 21:10](./nopdf.dgigovlk.ref644.md)
+  * Total cases: 256417; New cases: 1251
+643. [2021-07-03 19:00](./nopdf.dgigovlk.ref643.md)
+  * Total cases: 256176; New cases: 1010
+642. [2021-07-03 16:45](./nopdf.dgigovlk.ref642.md)
+  * New deaths: 34
+641. [2021-07-03 11:00](./nopdf.dgigovlk.ref641.md)
+  * osed HbasG eommbimeSadqo
+DFS BEd Honowadsenrd
+Three Grama Niladhari Divisions and Areas in Mulathivu, Kegalle and
+Ampara Districts Newly ...
+640. [2021-07-02 21:00](./nopdf.dgigovlk.ref640.md)
+  * Total cases: 255166; New cases: 1737
+639. [2021-07-02 19:00](./nopdf.dgigovlk.ref639.md)
+  * Total cases: 254531; New cases: 1102
+638. [2021-07-02 17:50](./nopdf.dgigovlk.ref638.md)
+  * New deaths: 37
+637. [2021-07-02 09:00](./nopdf.dgigovlk.ref637.md)
+  * oseS [Has eoonimeSedqQoO
+DFS HHEus HonowtawHenrd
+Five Grama Niladhari Divisions and Areas in Rathnapura, Gampaha, Colombo and
+Nuwara Eliy...
 636. [2021-07-01 20:10](./nopdf.dgigovlk.ref636.md)
   * Total cases: 253429; New cases: 1815
 635. [2021-07-01 18:55](./nopdf.dgigovlk.ref635.md)
@@ -30,31 +56,3 @@ and Galle Distr...
   * Total cases: 249828; New cases: 1709
 627. [2021-06-29 19:00](./nopdf.dgigovlk.ref627.md)
   * Total cases: 249439; New cases: 1320
-626. [2021-06-29 18:45](./nopdf.dgigovlk.ref626.md)
-  * New deaths: 45
-625. [2021-06-29 08:30](./nopdf.dgigovlk.ref625.md)
-  * . SETS gZeeIcd Henssradaomb
-Two Grama Niladhari Divisions and Areas in Colombo and Gampaha__Districts Newly
-Isolated: Isolated Status Lif...
-624. [2021-06-28 21:10](./nopdf.dgigovlk.ref624.md)
-  * Total cases: 248119; New cases: 1850
-623. [2021-06-28 18:40](./nopdf.dgigovlk.ref623.md)
-  * New deaths: 41
-622. [2021-06-28 18:30](./nopdf.dgigovlk.ref622.md)
-  * Total cases: 247479; New cases: 1210
-621. [2021-06-28 15:00](./nopdf.dgigovlk.ref621.md)
-  * 6sed HOass semboneSasqQoO
-Four Grama Niladhari ions and Areas in_Rathnapura and Monaragala Districts
-Newly Isolated:
-Four Grama niladhari...
-620. [2021-06-27 21:50](./nopdf.dgigovlk.ref620.md)
-  * Total cases: 246269; New cases: 1767
-619. [2021-06-27 19:20](./nopdf.dgigovlk.ref619.md)
-  * Total cases: 245747; New cases: 1245
-618. [2021-06-27 18:05](./nopdf.dgigovlk.ref618.md)
-  * New deaths: 39
-617. [2021-06-27 09:00](./nopdf.dgigovlk.ref617.md)
-  * Ssed HOasG eembmeSadqQo
-AFIS HHusd Honemabsenid
-Five Grama Niladhari Divisions and Areas in Colombo, Rathnapura and Nuwara Eliya
-District...
