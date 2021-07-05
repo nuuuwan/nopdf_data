@@ -4,6 +4,16 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+649. [2021-07-05 09:10](./nopdf.dgigovlk.ref649.md)
+  * DFTs Hes Honowtadsenrd
+One Grama Niladhari Division in Kaluthara District Newly Isolated: Isolated status
+lifted for one Grama Nilddhari ...
+648. [2021-07-04 21:05](./nopdf.dgigovlk.ref648.md)
+  * Total cases: 257934; New cases: 1517
+647. [2021-07-04 18:45](./nopdf.dgigovlk.ref647.md)
+  * New deaths: 45
+646. [2021-07-04 18:30](./nopdf.dgigovlk.ref646.md)
+  * Total cases: 257439; New cases: 1022
 645. [2021-07-04 09:00](./nopdf.dgigovlk.ref645.md)
   * ose [Has csoembmeSedq—noO
 DFS HSE Honewtadsenrd
@@ -45,14 +55,3 @@ Four Gra...
   * Total cases: 251614; New cases: 1786
 631. [2021-06-30 19:10](./nopdf.dgigovlk.ref631.md)
   * Total cases: 251008; New cases: 1180
-630. [2021-06-30 18:20](./nopdf.dgigovlk.ref630.md)
-  * New deaths: 47
-629. [2021-06-30 09:15](./nopdf.dgigovlk.ref629.md)
-  * oseS Hbass eembmeSadqoO
-DFS BHEusd Honora senrd
-Six Grama Niladhari Divisions and Areas in Monaragala, Kegalle, Kaluthara
-and Galle Distr...
-628. [2021-06-29 20:25](./nopdf.dgigovlk.ref628.md)
-  * Total cases: 249828; New cases: 1709
-627. [2021-06-29 19:00](./nopdf.dgigovlk.ref627.md)
-  * Total cases: 249439; New cases: 1320
