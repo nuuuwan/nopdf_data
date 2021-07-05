@@ -5,54 +5,56 @@
 ## Released from Isolation
 * Batticaloa District (LK-51) 
   * Kattankudy Police Area
-    * Nochimunai Grama Niladhari Division 
 * Gampaha District (LK-12) 
   * Divulapitiya Police Area
-    * Palugahawela GND (LK-1209530) 
   * Dungalpitiya Police Area
-    * Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama 
     * Niladhari Division 
-    * Pitipana Lellama (Pitipana North) Grama Niladhari Division 
   * Kadawatha Police Area
     * Ranawiru Dharmasiri Mawatha 
   * Mahabage Police Area
-    * Elapitiwala GND (LK-1218085) 
   * Wattala Police Area
-    * 44" Lanin Kunjagahawatta Grama Niladhari Division 
     * Alwis Place 
-    * Alwiswatta Villagin Kurundugahahena Grama Niladhari Division 
     * Athkam Housing Scheme 
     * Koktain Road 
     * National Housing Scheme 
   * Weliweriya Police Area
-    * Etikehelgalla Grama Niladhari Division 
 * Hambantota District (LK-33) 
   * Agunakolapelessa Police Area
     * RotGrama Niladhari Division 
 * Kalutara District (LK-13) 
   * Panadura South Police Area
-    * Vijitha Mawatha in Nagoda South Grama Niladhari Division 
 * Moneragala District (LK-82) 
   * Sewanagala Police Area
-    * Bahirawa GND (LK-8233045) 
-    * Habarattawela GND (LK-8233070) 
-    * Habarugala GND (LK-8233055) 
-    * Idikolapelessa Grama Niladhari Division 
-    * Kiriwewa Grama Niladhari Division 
-    * Mahagama GND (LK-8233065) 
-    * Sevanagala GND (LK-8233035) 
 * Nuwara Eliya District (LK-23) 
   * Lindula Police Area
     * St. Coombas Estate 
 * Trincomalee District (LK-53) 
   * Kinniya Police Area
-    * kurinchakerny GND (LK-5324070) 
-    * Munachchenei Grama Niladhari Division 
 
+A number of Grama Niladhari Divisions and Areas in 07 Districts Released from isolation
 subject to the Existing Travel Restrictions.
+The following Grama Niladhari Divisions and Areas in Monaragala, Hambanthota,
 announced General Shavendra Silva, Commander of the Army, Head of the National
 Operations Center for Prevention of Covid 19 outbreak.
+Kiriwewa Grama Niladhari Division
+e Sewanagala Grama Niladhari Division
+Bahirawa Grama Niladhari Division
+Habaraththawela Grama Niladhari Division
+e Habarugala Grama Niladhari Division
+e Mahagama Grama Niladhari Division
+e  Idikolapelessa Grama Niladhari Division
+e  Kurinchakerny Grama Niladhari Division
+Munachchenei Grama Niladhari Division
 163, Dgerrionen sos, Gay
+Nochimunai Grama Niladhari Division
+e  Vijitha Mawatha in Nagoda South Grama Niladhari Division
+e  Etikehelgalla Grama Niladhari Division
+e  Elapitiwala Nawam Mahara gama Grama Niladhari Division
+e Alwiswatta Village in Kurundugahahena Grama Niladhari Division
+e 44" Lane in Kunjagahawatta Grama Niladhari Division
+e Palugahawela Grama Niladhari Division
+e Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama
+e  Pitipana Lellama (Pitipana North) Grama Niladhari Division
 
 ## Appendix: Structured Information
 ```json
@@ -67,11 +69,7 @@ Operations Center for Prevention of Covid 19 outbreak.
       "police_areas": [
         {
           "police_area_name": "Kattankudy",
-          "areas": [
-            {
-              "area_name": "Nochimunai Grama Niladhari Division"
-            }
-          ]
+          "areas": []
         }
       ]
     },
@@ -81,24 +79,13 @@ Operations Center for Prevention of Covid 19 outbreak.
       "police_areas": [
         {
           "police_area_name": "Divulapitiya",
-          "areas": [
-            {
-              "gnd_id": "LK-1209530",
-              "gnd_name": "Palugahawela"
-            }
-          ]
+          "areas": []
         },
         {
           "police_area_name": "Dungalpitiya",
           "areas": [
             {
-              "area_name": "Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama"
-            },
-            {
               "area_name": "Niladhari Division"
-            },
-            {
-              "area_name": "Pitipana Lellama (Pitipana North) Grama Niladhari Division"
             }
           ]
         },
@@ -112,24 +99,13 @@ Operations Center for Prevention of Covid 19 outbreak.
         },
         {
           "police_area_name": "Mahabage",
-          "areas": [
-            {
-              "gnd_id": "LK-1218085",
-              "gnd_name": "Elapitiwala"
-            }
-          ]
+          "areas": []
         },
         {
           "police_area_name": "Wattala",
           "areas": [
             {
-              "area_name": "44\" Lanin Kunjagahawatta Grama Niladhari Division"
-            },
-            {
               "area_name": "Alwis Place"
-            },
-            {
-              "area_name": "Alwiswatta Villagin Kurundugahahena Grama Niladhari Division"
             },
             {
               "area_name": "Athkam Housing Scheme"
@@ -144,11 +120,7 @@ Operations Center for Prevention of Covid 19 outbreak.
         },
         {
           "police_area_name": "Weliweriya",
-          "areas": [
-            {
-              "area_name": "Etikehelgalla Grama Niladhari Division"
-            }
-          ]
+          "areas": []
         }
       ]
     },
@@ -172,11 +144,7 @@ Operations Center for Prevention of Covid 19 outbreak.
       "police_areas": [
         {
           "police_area_name": "Panadura South",
-          "areas": [
-            {
-              "area_name": "Vijitha Mawatha in Nagoda South Grama Niladhari Division"
-            }
-          ]
+          "areas": []
         }
       ]
     },
@@ -186,34 +154,7 @@ Operations Center for Prevention of Covid 19 outbreak.
       "police_areas": [
         {
           "police_area_name": "Sewanagala",
-          "areas": [
-            {
-              "gnd_id": "LK-8233045",
-              "gnd_name": "Bahirawa"
-            },
-            {
-              "gnd_id": "LK-8233070",
-              "gnd_name": "Habarattawela"
-            },
-            {
-              "gnd_id": "LK-8233055",
-              "gnd_name": "Habarugala"
-            },
-            {
-              "area_name": "Idikolapelessa Grama Niladhari Division"
-            },
-            {
-              "area_name": "Kiriwewa Grama Niladhari Division"
-            },
-            {
-              "gnd_id": "LK-8233065",
-              "gnd_name": "Mahagama"
-            },
-            {
-              "gnd_id": "LK-8233035",
-              "gnd_name": "Sevanagala"
-            }
-          ]
+          "areas": []
         }
       ]
     },
@@ -237,24 +178,36 @@ Operations Center for Prevention of Covid 19 outbreak.
       "police_areas": [
         {
           "police_area_name": "Kinniya",
-          "areas": [
-            {
-              "gnd_id": "LK-5324070",
-              "gnd_name": "kurinchakerny"
-            },
-            {
-              "area_name": "Munachchenei Grama Niladhari Division"
-            }
-          ]
+          "areas": []
         }
       ]
     }
   ],
   "uncategorized_text_lines": [
+    "A number of Grama Niladhari Divisions and Areas in 07 Districts Released from isolation",
     "subject to the Existing Travel Restrictions.",
+    "The following Grama Niladhari Divisions and Areas in Monaragala, Hambanthota,",
     "announced General Shavendra Silva, Commander of the Army, Head of the National",
     "Operations Center for Prevention of Covid 19 outbreak.",
-    "163, Dgerrionen sos, Gay"
+    "Kiriwewa Grama Niladhari Division",
+    "e Sewanagala Grama Niladhari Division",
+    "Bahirawa Grama Niladhari Division",
+    "Habaraththawela Grama Niladhari Division",
+    "e Habarugala Grama Niladhari Division",
+    "e Mahagama Grama Niladhari Division",
+    "e  Idikolapelessa Grama Niladhari Division",
+    "e  Kurinchakerny Grama Niladhari Division",
+    "Munachchenei Grama Niladhari Division",
+    "163, Dgerrionen sos, Gay",
+    "Nochimunai Grama Niladhari Division",
+    "e  Vijitha Mawatha in Nagoda South Grama Niladhari Division",
+    "e  Etikehelgalla Grama Niladhari Division",
+    "e  Elapitiwala Nawam Mahara gama Grama Niladhari Division",
+    "e Alwiswatta Village in Kurundugahahena Grama Niladhari Division",
+    "e 44\" Lane in Kunjagahawatta Grama Niladhari Division",
+    "e Palugahawela Grama Niladhari Division",
+    "e Area from Sebasthiyan Mawatha to Debadiya Mawatha in Kepungoda Grama",
+    "e  Pitipana Lellama (Pitipana North) Grama Niladhari Division"
   ],
   "page_nos": [
     "001",

@@ -2,6 +2,7 @@
 # Press Release No. 555
 *2021-06-08 21:30*
 ## Statistics
+* New Deaths: 54
 * Total Deaths: 1843
 ### Deaths by Day
 * 2021-05-10: 1
@@ -213,6 +214,7 @@ S2ywww, vd)
       "deaths": 4
     }
   ],
+  "new_deaths": 54,
   "deaths_by_gender": [
     {
       "gender": "Female",
@@ -395,6 +397,10 @@ S2ywww, vd)
     "Death toll due to COVID 19 from June 02 to June 07 as confirmed today (08) by the Director",
     "General of Health Services \u2014 39.",
     "S2ywww, vd)"
+  ],
+  "page_nos": [
+    "001",
+    "002"
   ]
 }
 ```
