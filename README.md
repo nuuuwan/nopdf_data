@@ -4,6 +4,17 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+653. [2021-07-06 07:45](./nopdf.dgigovlk.ref653.md)
+  * GE }) Seed HOas cecmticeSadq—d
+‘ Y DAYFTHS HHosd PHonswraaertd
+Two areas and Grama Niladhari Divisions in Jaffna and Kaluthara Districts
+...
+652. [2021-07-05 21:30](./nopdf.dgigovlk.ref652.md)
+  * Total cases: 258750; New cases: 816
+651. [2021-07-05 19:05](./nopdf.dgigovlk.ref651.md)
+  * Total cases: 258515; New cases: 581
+650. [2021-07-05 17:45](./nopdf.dgigovlk.ref650.md)
+  * New deaths: 32
 649. [2021-07-05 09:10](./nopdf.dgigovlk.ref649.md)
   * DFTs Hes Honowtadsenrd
 One Grama Niladhari Division in Kaluthara District Newly Isolated: Isolated status
@@ -44,14 +55,3 @@ Nuwara Eliy...
   * Total cases: 253429; New cases: 1815
 635. [2021-07-01 18:55](./nopdf.dgigovlk.ref635.md)
   * Total cases: 252787; New cases: 1173
-634. [2021-07-01 17:45](./nopdf.dgigovlk.ref634.md)
-  * New deaths: 43
-633. [2021-07-01 07:30](./nopdf.dgigovlk.ref633.md)
-  * (Ge) Sed QOasSs cembneSadQo
-Four Grama Niladhari Divisions and Areas in Jaffna, Nuwara Eliya and Kandy
-jistricts Newly Isolated:
-Four Gra...
-632. [2021-06-30 20:35](./nopdf.dgigovlk.ref632.md)
-  * Total cases: 251614; New cases: 1786
-631. [2021-06-30 19:10](./nopdf.dgigovlk.ref631.md)
-  * Total cases: 251008; New cases: 1180
