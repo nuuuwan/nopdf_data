@@ -4,6 +4,15 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+657. [2021-07-07 09:00](./nopdf.dgigovlk.ref657.md)
+  * Isolated status lifted for Two Areas in Nuwara Eliya and Trincomalee Districts
+Isolated status has been lifted for Two Areas in Nuwara El...
+656. [2021-07-06 21:05](./nopdf.dgigovlk.ref656.md)
+  * Total cases: 259669; New cases: 919
+655. [2021-07-06 19:35](./nopdf.dgigovlk.ref655.md)
+  * Total cases: 259400; New cases: 650
+654. [2021-07-06 17:50](./nopdf.dgigovlk.ref654.md)
+  * New deaths: 45
 653. [2021-07-06 07:45](./nopdf.dgigovlk.ref653.md)
   * GE }) Seed HOas cecmticeSadq—d
 ‘ Y DAYFTHS HHosd PHonswraaertd
@@ -44,14 +53,3 @@ Ampara Districts Newly ...
   * Total cases: 255166; New cases: 1737
 639. [2021-07-02 19:00](./nopdf.dgigovlk.ref639.md)
   * Total cases: 254531; New cases: 1102
-638. [2021-07-02 17:50](./nopdf.dgigovlk.ref638.md)
-  * New deaths: 37
-637. [2021-07-02 09:00](./nopdf.dgigovlk.ref637.md)
-  * oseS [Has eoonimeSedqQoO
-DFS HHEus HonowtawHenrd
-Five Grama Niladhari Divisions and Areas in Rathnapura, Gampaha, Colombo and
-Nuwara Eliy...
-636. [2021-07-01 20:10](./nopdf.dgigovlk.ref636.md)
-  * Total cases: 253429; New cases: 1815
-635. [2021-07-01 18:55](./nopdf.dgigovlk.ref635.md)
-  * Total cases: 252787; New cases: 1173
