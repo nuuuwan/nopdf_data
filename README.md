@@ -4,6 +4,10 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+660. [2021-07-07 20:25](./nopdf.dgigovlk.ref660.md)
+  * Total cases: 260898; New cases: 1229
+659. [2021-07-07 18:50](./nopdf.dgigovlk.ref659.md)
+  * Total cases: 260347; New cases: 678
 658. [2021-07-07 18:30](./nopdf.dgigovlk.ref658.md)
   * New deaths: 38
 657. [2021-07-07 09:00](./nopdf.dgigovlk.ref657.md)
@@ -46,10 +50,3 @@ An area in a Grama Niladhari Division in Kandy District Newly Isolated: Isolated
   * Total cases: 256176; New cases: 1010
 642. [2021-07-03 16:45](./nopdf.dgigovlk.ref642.md)
   * New deaths: 34
-641. [2021-07-03 11:00](./nopdf.dgigovlk.ref641.md)
-  * osed HbasG eommbimeSadqo
-DFS BEd Honowadsenrd
-Three Grama Niladhari Divisions and Areas in Mulathivu, Kegalle and
-Ampara Districts Newly ...
-640. [2021-07-02 21:00](./nopdf.dgigovlk.ref640.md)
-  * Total cases: 255166; New cases: 1737
