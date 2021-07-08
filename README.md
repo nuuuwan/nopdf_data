@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+658. [2021-07-07 18:30](./nopdf.dgigovlk.ref658.md)
+  * New deaths: 38
 657. [2021-07-07 09:00](./nopdf.dgigovlk.ref657.md)
   * Isolated status lifted for Two Areas in Nuwara Eliya and Trincomalee Districts
 Isolated status has been lifted for Two Areas in Nuwara El...
@@ -51,5 +53,3 @@ Three Grama Niladhari Divisions and Areas in Mulathivu, Kegalle and
 Ampara Districts Newly ...
 640. [2021-07-02 21:00](./nopdf.dgigovlk.ref640.md)
   * Total cases: 255166; New cases: 1737
-639. [2021-07-02 19:00](./nopdf.dgigovlk.ref639.md)
-  * Total cases: 254531; New cases: 1102
