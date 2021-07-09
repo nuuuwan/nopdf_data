@@ -4,6 +4,16 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+664. [2021-07-08 20:50](./nopdf.dgigovlk.ref664.md)
+  * Total cases: 262121; New cases: 1223
+663. [2021-07-08 18:45](./nopdf.dgigovlk.ref663.md)
+  * Total cases: 261740; New cases: 842
+662. [2021-07-08 17:10](./nopdf.dgigovlk.ref662.md)
+  * New deaths: 40
+661. [2021-07-08 09:00](./nopdf.dgigovlk.ref661.md)
+  * fe’ ) Seed HOass cermtoeSadq—nd
+‘ AJITHIS HEU Honomadsend
+Two areas and Grama Niladhari Divisions_in Mathale District_Newly Isolated: Iso...
 660. [2021-07-07 20:25](./nopdf.dgigovlk.ref660.md)
   * Total cases: 260898; New cases: 1229
 659. [2021-07-07 18:50](./nopdf.dgigovlk.ref659.md)
@@ -44,9 +54,3 @@ lifted for one Grama Nilddhari ...
   * ose [Has csoembmeSedq—noO
 DFS HSE Honewtadsenrd
 An area in a Grama Niladhari Division in Kandy District Newly Isolated: Isolated status l...
-644. [2021-07-03 21:10](./nopdf.dgigovlk.ref644.md)
-  * Total cases: 256417; New cases: 1251
-643. [2021-07-03 19:00](./nopdf.dgigovlk.ref643.md)
-  * Total cases: 256176; New cases: 1010
-642. [2021-07-03 16:45](./nopdf.dgigovlk.ref642.md)
-  * New deaths: 34
