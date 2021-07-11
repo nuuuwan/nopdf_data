@@ -4,6 +4,31 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+674. [2021-07-11 16:00](./nopdf.dgigovlk.ref674.md)
+  * New deaths: 35
+673. [2021-07-11 09:15](./nopdf.dgigovlk.ref673.md)
+  * fier) Oded gOad eeerboeSadqQod
+‘ DIF HSU PHonowadbaenrd
+A Grama Niladhari Division in Rathnapura District Newly Isolated: Isolated
+status...
+672. [2021-07-10 20:00](./nopdf.dgigovlk.ref672.md)
+  * Total cases: 265151; New cases: 1515
+671. [2021-07-10 18:35](./nopdf.dgigovlk.ref671.md)
+  * Total cases: 264555; New cases: 919
+670. [2021-07-10 17:45](./nopdf.dgigovlk.ref670.md)
+  * New deaths: 33
+669. [2021-07-10 15:30](./nopdf.dgigovlk.ref669.md)
+  * fer, }) Osed GHOadS semmbmeSadqnO
+‘ J DYES HHousd PHenswradaertd
+An area of a Grama Niladhari Division in Kegalle District Newly Isolated...
+668. [2021-07-09 20:15](./nopdf.dgigovlk.ref668.md)
+  * Total cases: 263636; New cases: 1515
+667. [2021-07-09 19:45](./nopdf.dgigovlk.ref667.md)
+  * Total cases: 263085; New cases: 964
+666. [2021-07-09 17:15](./nopdf.dgigovlk.ref666.md)
+  * (oe) dsed [bad ceenboeSadqn®
+Y DYES HZHousd Honowraaerd
+An area of a Grama Niladhari Divisions in Kalutara District Newly Isolated: Isola...
 665. [2021-07-09 16:30](./nopdf.dgigovlk.ref665.md)
   * New deaths: 43
 664. [2021-07-08 20:50](./nopdf.dgigovlk.ref664.md)
@@ -29,26 +54,3 @@ Isolated status has been lifted for Two Areas in Nuwara El...
   * Total cases: 259669; New cases: 919
 655. [2021-07-06 19:35](./nopdf.dgigovlk.ref655.md)
   * Total cases: 259400; New cases: 650
-654. [2021-07-06 17:50](./nopdf.dgigovlk.ref654.md)
-  * New deaths: 45
-653. [2021-07-06 07:45](./nopdf.dgigovlk.ref653.md)
-  * GE }) Seed HOas cecmticeSadq—d
-‘ Y DAYFTHS HHosd PHonswraaertd
-Two areas and Grama Niladhari Divisions in Jaffna and Kaluthara Districts
-...
-652. [2021-07-05 21:30](./nopdf.dgigovlk.ref652.md)
-  * Total cases: 258750; New cases: 816
-651. [2021-07-05 19:05](./nopdf.dgigovlk.ref651.md)
-  * Total cases: 258515; New cases: 581
-650. [2021-07-05 17:45](./nopdf.dgigovlk.ref650.md)
-  * New deaths: 32
-649. [2021-07-05 09:10](./nopdf.dgigovlk.ref649.md)
-  * DFTs Hes Honowtadsenrd
-One Grama Niladhari Division in Kaluthara District Newly Isolated: Isolated status
-lifted for one Grama Nilddhari ...
-648. [2021-07-04 21:05](./nopdf.dgigovlk.ref648.md)
-  * Total cases: 257934; New cases: 1517
-647. [2021-07-04 18:45](./nopdf.dgigovlk.ref647.md)
-  * New deaths: 45
-646. [2021-07-04 18:30](./nopdf.dgigovlk.ref646.md)
-  * Total cases: 257439; New cases: 1022
