@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+665. [2021-07-09 16:30](./nopdf.dgigovlk.ref665.md)
+  * New deaths: 43
 664. [2021-07-08 20:50](./nopdf.dgigovlk.ref664.md)
   * Total cases: 262121; New cases: 1223
 663. [2021-07-08 18:45](./nopdf.dgigovlk.ref663.md)
@@ -50,7 +52,3 @@ lifted for one Grama Nilddhari ...
   * New deaths: 45
 646. [2021-07-04 18:30](./nopdf.dgigovlk.ref646.md)
   * Total cases: 257439; New cases: 1022
-645. [2021-07-04 09:00](./nopdf.dgigovlk.ref645.md)
-  * ose [Has csoembmeSedq—noO
-DFS HSE Honewtadsenrd
-An area in a Grama Niladhari Division in Kandy District Newly Isolated: Isolated status l...
