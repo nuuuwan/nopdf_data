@@ -4,6 +4,10 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+676. [2021-07-11 19:20](./nopdf.dgigovlk.ref676.md)
+  * Total cases: 266643; New cases: 1492
+675. [2021-07-11 19:10](./nopdf.dgigovlk.ref675.md)
+  * Total cases: 266137; New cases: 986
 674. [2021-07-11 16:00](./nopdf.dgigovlk.ref674.md)
   * New deaths: 35
 673. [2021-07-11 09:15](./nopdf.dgigovlk.ref673.md)
@@ -50,7 +54,3 @@ Two areas and Grama Niladhari Divisions_in Mathale District_Newly Isolated: Iso.
 657. [2021-07-07 09:00](./nopdf.dgigovlk.ref657.md)
   * Isolated status lifted for Two Areas in Nuwara Eliya and Trincomalee Districts
 Isolated status has been lifted for Two Areas in Nuwara El...
-656. [2021-07-06 21:05](./nopdf.dgigovlk.ref656.md)
-  * Total cases: 259669; New cases: 919
-655. [2021-07-06 19:35](./nopdf.dgigovlk.ref655.md)
-  * Total cases: 259400; New cases: 650
