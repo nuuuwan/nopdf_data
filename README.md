@@ -4,6 +4,15 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+684. [2021-07-13 18:40](./nopdf.dgigovlk.ref684.md)
+  * Total cases: 269013; New cases: 882
+683. [2021-07-13 17:30](./nopdf.dgigovlk.ref683.md)
+  * New deaths: 41
+682. [2021-07-13 11:30](./nopdf.dgigovlk.ref682.md)
+  * (oe) Sed GOadS eeertoreOadqQO
+DFU HSU Honowadsend
+Isolated status has been lifted for five Grama Nilddhari Divisions and Areas in
+Gampaha...
 681. [2021-07-12 20:20](./nopdf.dgigovlk.ref681.md)
   * Total cases: 268131; New cases: 1488
 680. [2021-07-12 18:55](./nopdf.dgigovlk.ref680.md)
@@ -45,11 +54,3 @@ An area of a Grama Niladhari Divisions in Kalutara District Newly Isolated: Isol
   * Total cases: 262121; New cases: 1223
 663. [2021-07-08 18:45](./nopdf.dgigovlk.ref663.md)
   * Total cases: 261740; New cases: 842
-662. [2021-07-08 17:10](./nopdf.dgigovlk.ref662.md)
-  * New deaths: 40
-661. [2021-07-08 09:00](./nopdf.dgigovlk.ref661.md)
-  * fe’ ) Seed HOass cermtoeSadq—nd
-‘ AJITHIS HEU Honomadsend
-Two areas and Grama Niladhari Divisions_in Mathale District_Newly Isolated: Iso...
-660. [2021-07-07 20:25](./nopdf.dgigovlk.ref660.md)
-  * Total cases: 260898; New cases: 1229
