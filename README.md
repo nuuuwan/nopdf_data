@@ -4,6 +4,12 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+681. [2021-07-12 20:20](./nopdf.dgigovlk.ref681.md)
+  * Total cases: 268131; New cases: 1488
+680. [2021-07-12 18:55](./nopdf.dgigovlk.ref680.md)
+  * Total cases: 267563; New cases: 920
+679. [2021-07-12 18:35](./nopdf.dgigovlk.ref679.md)
+  * New deaths: 31
 676. [2021-07-11 19:20](./nopdf.dgigovlk.ref676.md)
   * Total cases: 266643; New cases: 1492
 675. [2021-07-11 19:10](./nopdf.dgigovlk.ref675.md)
@@ -47,10 +53,3 @@ An area of a Grama Niladhari Divisions in Kalutara District Newly Isolated: Isol
 Two areas and Grama Niladhari Divisions_in Mathale District_Newly Isolated: Iso...
 660. [2021-07-07 20:25](./nopdf.dgigovlk.ref660.md)
   * Total cases: 260898; New cases: 1229
-659. [2021-07-07 18:50](./nopdf.dgigovlk.ref659.md)
-  * Total cases: 260347; New cases: 678
-658. [2021-07-07 18:30](./nopdf.dgigovlk.ref658.md)
-  * New deaths: 38
-657. [2021-07-07 09:00](./nopdf.dgigovlk.ref657.md)
-  * Isolated status lifted for Two Areas in Nuwara Eliya and Trincomalee Districts
-Isolated status has been lifted for Two Areas in Nuwara El...
