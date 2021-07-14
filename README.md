@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+685. [2021-07-13 21:00](./nopdf.dgigovlk.ref685.md)
+  * Total cases: 269535; New cases: 1404
 684. [2021-07-13 18:40](./nopdf.dgigovlk.ref684.md)
   * Total cases: 269013; New cases: 882
 683. [2021-07-13 17:30](./nopdf.dgigovlk.ref683.md)
@@ -52,5 +54,3 @@ An area of a Grama Niladhari Divisions in Kalutara District Newly Isolated: Isol
   * New deaths: 43
 664. [2021-07-08 20:50](./nopdf.dgigovlk.ref664.md)
   * Total cases: 262121; New cases: 1223
-663. [2021-07-08 18:45](./nopdf.dgigovlk.ref663.md)
-  * Total cases: 261740; New cases: 842
