@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+686. [2021-07-14 17:05](./nopdf.dgigovlk.ref686.md)
+  * New deaths: 37
 685. [2021-07-13 21:00](./nopdf.dgigovlk.ref685.md)
   * Total cases: 269535; New cases: 1404
 684. [2021-07-13 18:40](./nopdf.dgigovlk.ref684.md)
@@ -52,5 +54,3 @@ Y DYES HZHousd Honowraaerd
 An area of a Grama Niladhari Divisions in Kalutara District Newly Isolated: Isola...
 665. [2021-07-09 16:30](./nopdf.dgigovlk.ref665.md)
   * New deaths: 43
-664. [2021-07-08 20:50](./nopdf.dgigovlk.ref664.md)
-  * Total cases: 262121; New cases: 1223
