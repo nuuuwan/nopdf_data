@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+694. [2021-07-16 14:00](./nopdf.dgigovlk.ref694.md)
+  * Total cases: 272435
 693. [2021-07-16 09:00](./nopdf.dgigovlk.ref693.md)
   * fe) Osed gbas eermnbmeSedeqpO
 Isolated status lifted for two GN Divisions in Jaffna and Puttalam Districts
@@ -53,5 +55,3 @@ Gampaha...
 ‘ DIF HSU PHonowadbaenrd
 A Grama Niladhari Division in Rathnapura District Newly Isolated: Isolated
 status...
-672. [2021-07-10 20:00](./nopdf.dgigovlk.ref672.md)
-  * Total cases: 265151; New cases: 1515
