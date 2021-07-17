@@ -4,6 +4,25 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+693. [2021-07-16 09:00](./nopdf.dgigovlk.ref693.md)
+  * fe) Osed gbas eermnbmeSedeqpO
+Isolated status lifted for two GN Divisions in Jaffna and Puttalam Districts
+Isolated status has been lifte...
+692. [2021-07-15 18:40](./nopdf.dgigovlk.ref692.md)
+  * Total cases: 271955; New cases: 967
+691. [2021-07-15 18:25](./nopdf.dgigovlk.ref691.md)
+  * New deaths: 50
+690. [2021-07-15 09:30](./nopdf.dgigovlk.ref690.md)
+  * odes HOasG sembmeSadqO
+Isolated status lifted for Mamangam GN Division
+Isolated status has been lifted for Mamangam Grama niladhari divis...
+689. [2021-07-14 20:25](./nopdf.dgigovlk.ref689.md)
+  * Total cases: 270988; New cases: 1453
+688. [2021-07-14 20:00](./nopdf.dgigovlk.ref688.md)
+  * Isolated status lifted for 29 Grama Niladhari Divisions and areas in Jaffna, Gampaha,
+Badulla Nuwara Eliya, Batticaloa, Kaluthara, Rathna...
+687. [2021-07-14 18:45](./nopdf.dgigovlk.ref687.md)
+  * Total cases: 270523; New cases: 988
 686. [2021-07-14 17:05](./nopdf.dgigovlk.ref686.md)
   * New deaths: 37
 685. [2021-07-13 21:00](./nopdf.dgigovlk.ref685.md)
@@ -36,21 +55,3 @@ A Grama Niladhari Division in Rathnapura District Newly Isolated: Isolated
 status...
 672. [2021-07-10 20:00](./nopdf.dgigovlk.ref672.md)
   * Total cases: 265151; New cases: 1515
-671. [2021-07-10 18:35](./nopdf.dgigovlk.ref671.md)
-  * Total cases: 264555; New cases: 919
-670. [2021-07-10 17:45](./nopdf.dgigovlk.ref670.md)
-  * New deaths: 33
-669. [2021-07-10 15:30](./nopdf.dgigovlk.ref669.md)
-  * fer, }) Osed GHOadS semmbmeSadqnO
-‘ J DYES HHousd PHenswradaertd
-An area of a Grama Niladhari Division in Kegalle District Newly Isolated...
-668. [2021-07-09 20:15](./nopdf.dgigovlk.ref668.md)
-  * Total cases: 263636; New cases: 1515
-667. [2021-07-09 19:45](./nopdf.dgigovlk.ref667.md)
-  * Total cases: 263085; New cases: 964
-666. [2021-07-09 17:15](./nopdf.dgigovlk.ref666.md)
-  * (oe) dsed [bad ceenboeSadqn®
-Y DYES HZHousd Honowraaerd
-An area of a Grama Niladhari Divisions in Kalutara District Newly Isolated: Isola...
-665. [2021-07-09 16:30](./nopdf.dgigovlk.ref665.md)
-  * New deaths: 43

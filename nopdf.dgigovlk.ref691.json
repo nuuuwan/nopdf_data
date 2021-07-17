@@ -1,0 +1,65 @@
+{
+  "ref_no": "691",
+  "unixtime": 1626373500,
+  "datetime": "2021-07-15 18:25",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 8
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 4
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 21
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 17
+    }
+  ],
+  "new_deaths": 50,
+  "uncategorized_text_lines": [
+    "(ie ) osed Hbass cermbm~eSadeQo",
+    "Release No:691/2021",
+    "Covid death figures reported today 15.07.2021",
+    "Covid 19 death figures that were reported today July 15, 2021 after confirmed",
+    "by the Director General of Health Services yesterday (14) are as follows.",
+    "Age group Male Female Total",
+    "3, Ayerniean"
+  ]
+}
