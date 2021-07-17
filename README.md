@@ -4,6 +4,17 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+698. [2021-07-17 09:00](./nopdf.dgigovlk.ref698.md)
+  * (Ke) Sed [Oss semrBbneSadqo
+X DIF HSU PHonowadbaenrd
+Isolated status lifted for Several Areas and Grama Niladhari Divisions in Kegalle,
+R...
+697. [2021-07-16 21:10](./nopdf.dgigovlk.ref697.md)
+  * Total cases: 273881; New cases: 1446
+696. [2021-07-16 19:30](./nopdf.dgigovlk.ref696.md)
+  * Total cases: 273514; New cases: 1079
+695. [2021-07-16 18:25](./nopdf.dgigovlk.ref695.md)
+  * New deaths: 41
 694. [2021-07-16 14:00](./nopdf.dgigovlk.ref694.md)
   * Total cases: 272435
 693. [2021-07-16 09:00](./nopdf.dgigovlk.ref693.md)
@@ -44,14 +55,3 @@ Gampaha...
   * Total cases: 267563; New cases: 920
 679. [2021-07-12 18:35](./nopdf.dgigovlk.ref679.md)
   * New deaths: 31
-676. [2021-07-11 19:20](./nopdf.dgigovlk.ref676.md)
-  * Total cases: 266643; New cases: 1492
-675. [2021-07-11 19:10](./nopdf.dgigovlk.ref675.md)
-  * Total cases: 266137; New cases: 986
-674. [2021-07-11 16:00](./nopdf.dgigovlk.ref674.md)
-  * New deaths: 35
-673. [2021-07-11 09:15](./nopdf.dgigovlk.ref673.md)
-  * fier) Oded gOad eeerboeSadqQod
-‘ DIF HSU PHonowadbaenrd
-A Grama Niladhari Division in Rathnapura District Newly Isolated: Isolated
-status...
