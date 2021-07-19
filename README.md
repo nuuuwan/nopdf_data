@@ -4,6 +4,18 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+704. [2021-07-18 21:25](./nopdf.dgigovlk.ref704.md)
+  * Total cases: 276730; New cases: 1402
+703. [2021-07-18 18:35](./nopdf.dgigovlk.ref703.md)
+  * New deaths: 46
+702. [2021-07-18 18:30](./nopdf.dgigovlk.ref702.md)
+  * Total cases: 276350; New cases: 1022
+701. [2021-07-17 21:10](./nopdf.dgigovlk.ref701.md)
+  * Total cases: 275328; New cases: 1447
+700. [2021-07-17 18:10](./nopdf.dgigovlk.ref700.md)
+  * Total cases: 274861; New cases: 980
+699. [2021-07-17 16:15](./nopdf.dgigovlk.ref699.md)
+  * New deaths: 31
 698. [2021-07-17 09:00](./nopdf.dgigovlk.ref698.md)
   * (Ke) Sed [Oss semrBbneSadqo
 X DIF HSU PHonowadbaenrd
@@ -40,18 +52,3 @@ Badulla Nuwara Eliya, Batticaloa, Kaluthara, Rathna...
   * New deaths: 37
 685. [2021-07-13 21:00](./nopdf.dgigovlk.ref685.md)
   * Total cases: 269535; New cases: 1404
-684. [2021-07-13 18:40](./nopdf.dgigovlk.ref684.md)
-  * Total cases: 269013; New cases: 882
-683. [2021-07-13 17:30](./nopdf.dgigovlk.ref683.md)
-  * New deaths: 41
-682. [2021-07-13 11:30](./nopdf.dgigovlk.ref682.md)
-  * (oe) Sed GOadS eeertoreOadqQO
-DFU HSU Honowadsend
-Isolated status has been lifted for five Grama Nilddhari Divisions and Areas in
-Gampaha...
-681. [2021-07-12 20:20](./nopdf.dgigovlk.ref681.md)
-  * Total cases: 268131; New cases: 1488
-680. [2021-07-12 18:55](./nopdf.dgigovlk.ref680.md)
-  * Total cases: 267563; New cases: 920
-679. [2021-07-12 18:35](./nopdf.dgigovlk.ref679.md)
-  * New deaths: 31
