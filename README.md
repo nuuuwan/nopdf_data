@@ -4,6 +4,12 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+707. [2021-07-19 20:00](./nopdf.dgigovlk.ref707.md)
+  * Total cases: 278194; New cases: 1464
+706. [2021-07-19 18:40](./nopdf.dgigovlk.ref706.md)
+  * New deaths: 48
+705. [2021-07-19 18:35](./nopdf.dgigovlk.ref705.md)
+  * Total cases: 277710; New cases: 980
 704. [2021-07-18 21:25](./nopdf.dgigovlk.ref704.md)
   * Total cases: 276730; New cases: 1402
 703. [2021-07-18 18:35](./nopdf.dgigovlk.ref703.md)
@@ -46,9 +52,3 @@ Isolated status has been lifted for Mamangam Grama niladhari divis...
 688. [2021-07-14 20:00](./nopdf.dgigovlk.ref688.md)
   * Isolated status lifted for 29 Grama Niladhari Divisions and areas in Jaffna, Gampaha,
 Badulla Nuwara Eliya, Batticaloa, Kaluthara, Rathna...
-687. [2021-07-14 18:45](./nopdf.dgigovlk.ref687.md)
-  * Total cases: 270523; New cases: 988
-686. [2021-07-14 17:05](./nopdf.dgigovlk.ref686.md)
-  * New deaths: 37
-685. [2021-07-13 21:00](./nopdf.dgigovlk.ref685.md)
-  * Total cases: 269535; New cases: 1404
