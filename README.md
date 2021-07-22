@@ -4,6 +4,25 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+723. [2021-07-22 18:55](./nopdf.dgigovlk.ref723.md)
+  * New deaths: 42
+720. [2021-07-22 09:15](./nopdf.dgigovlk.ref720.md)
+  * ded GOIdG cemmbacOsqQo
+AIFTHS FEU Sonoran
+Release from Isolation
+Isolated status lifted for Kotiyagala Estate Lower Division belonging to...
+719. [2021-07-21 21:25](./nopdf.dgigovlk.ref719.md)
+  * Total cases: 281271; New cases: 1566
+718. [2021-07-21 18:30](./nopdf.dgigovlk.ref718.md)
+  * Total cases: 280885; New cases: 1180
+717. [2021-07-21 18:15](./nopdf.dgigovlk.ref717.md)
+  * New deaths: 47
+711. [2021-07-20 22:20](./nopdf.dgigovlk.ref711.md)
+  * Total cases: 279705; New cases: 1511
+710. [2021-07-20 18:00](./nopdf.dgigovlk.ref710.md)
+  * Total cases: 279256; New cases: 1062
+709. [2021-07-20 17:30](./nopdf.dgigovlk.ref709.md)
+  * New deaths: 43
 707. [2021-07-19 20:00](./nopdf.dgigovlk.ref707.md)
   * Total cases: 278194; New cases: 1464
 706. [2021-07-19 18:40](./nopdf.dgigovlk.ref706.md)
@@ -29,26 +48,3 @@ Isolated status lifted for Several Areas and Grama Niladhari Divisions in Kegall
 R...
 697. [2021-07-16 21:10](./nopdf.dgigovlk.ref697.md)
   * Total cases: 273881; New cases: 1446
-696. [2021-07-16 19:30](./nopdf.dgigovlk.ref696.md)
-  * Total cases: 273514; New cases: 1079
-695. [2021-07-16 18:25](./nopdf.dgigovlk.ref695.md)
-  * New deaths: 41
-694. [2021-07-16 14:00](./nopdf.dgigovlk.ref694.md)
-  * Total cases: 272435
-693. [2021-07-16 09:00](./nopdf.dgigovlk.ref693.md)
-  * fe) Osed gbas eermnbmeSedeqpO
-Isolated status lifted for two GN Divisions in Jaffna and Puttalam Districts
-Isolated status has been lifte...
-692. [2021-07-15 18:40](./nopdf.dgigovlk.ref692.md)
-  * Total cases: 271955; New cases: 967
-691. [2021-07-15 18:25](./nopdf.dgigovlk.ref691.md)
-  * New deaths: 50
-690. [2021-07-15 09:30](./nopdf.dgigovlk.ref690.md)
-  * odes HOasG sembmeSadqO
-Isolated status lifted for Mamangam GN Division
-Isolated status has been lifted for Mamangam Grama niladhari divis...
-689. [2021-07-14 20:25](./nopdf.dgigovlk.ref689.md)
-  * Total cases: 270988; New cases: 1453
-688. [2021-07-14 20:00](./nopdf.dgigovlk.ref688.md)
-  * Isolated status lifted for 29 Grama Niladhari Divisions and areas in Jaffna, Gampaha,
-Badulla Nuwara Eliya, Batticaloa, Kaluthara, Rathna...
