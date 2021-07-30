@@ -4,6 +4,14 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+742. [2021-07-26 21:15](./nopdf.dgigovlk.ref742.md)
+  * Total cases: 289786; New cases: 1653
+740. [2021-07-26 20:00](./nopdf.dgigovlk.ref740.md)
+  * New deaths: 48
+739. [2021-07-26 19:00](./nopdf.dgigovlk.ref739.md)
+  * Total cases: 289151; New cases: 1018
+736. [2021-07-25 20:35](./nopdf.dgigovlk.ref736.md)
+  * Total cases: 288133; New cases: 1656
 734. [2021-07-25 19:05](./nopdf.dgigovlk.ref734.md)
   * New deaths: 45
 733. [2021-07-24 19:35](./nopdf.dgigovlk.ref733.md)
@@ -38,13 +46,3 @@ Isolated status lifted for Kotiyagala Estate Lower Division belonging to...
   * New deaths: 47
 711. [2021-07-20 22:20](./nopdf.dgigovlk.ref711.md)
   * Total cases: 279705; New cases: 1511
-710. [2021-07-20 18:00](./nopdf.dgigovlk.ref710.md)
-  * Total cases: 279256; New cases: 1062
-709. [2021-07-20 17:30](./nopdf.dgigovlk.ref709.md)
-  * New deaths: 43
-707. [2021-07-19 20:00](./nopdf.dgigovlk.ref707.md)
-  * Total cases: 278194; New cases: 1464
-706. [2021-07-19 18:40](./nopdf.dgigovlk.ref706.md)
-  * New deaths: 48
-705. [2021-07-19 18:35](./nopdf.dgigovlk.ref705.md)
-  * Total cases: 277710; New cases: 980

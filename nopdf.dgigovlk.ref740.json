@@ -1,0 +1,63 @@
+{
+  "ref_no": "740",
+  "unixtime": 1627329600,
+  "datetime": "2021-07-26 20:00",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 6
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 6
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 24
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 12
+    }
+  ],
+  "new_deaths": 48,
+  "uncategorized_text_lines": [
+    "(ie ) osed Hbass cermbm~eSadeQo",
+    "Covid death figures reported today 26.07.2021",
+    "Covid 19 death figures that were reported today July 26, 2021 after confirmed",
+    "by the Director General of Health Services yesterday (25) are as follows.",
+    "Age group Male Female Total"
+  ]
+}
