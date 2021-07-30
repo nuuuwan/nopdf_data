@@ -4,6 +4,25 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+734. [2021-07-25 19:05](./nopdf.dgigovlk.ref734.md)
+  * New deaths: 45
+733. [2021-07-24 19:35](./nopdf.dgigovlk.ref733.md)
+  * Total cases: 286477; New cases: 1707
+732. [2021-07-24 18:50](./nopdf.dgigovlk.ref732.md)
+  * New deaths: 52
+729. [2021-07-23 21:00](./nopdf.dgigovlk.ref729.md)
+  * Total cases: 284770; New cases: 1785
+728. [2021-07-23 18:20](./nopdf.dgigovlk.ref728.md)
+  * Total cases: 284295; New cases: 1310
+727. [2021-07-23 18:10](./nopdf.dgigovlk.ref727.md)
+  * New deaths: 43
+726. [2021-07-23 10:15](./nopdf.dgigovlk.ref726.md)
+  * 686d HHasG semboeSaqo0
+Release from Isolation
+Isolated status lifted for Agalawatta Village and Harasgama Village in Bogahakotuwa Grama
+N...
+725. [2021-07-22 21:50](./nopdf.dgigovlk.ref725.md)
+  * Total cases: 282985; New cases: 1714
 723. [2021-07-22 18:55](./nopdf.dgigovlk.ref723.md)
   * New deaths: 42
 720. [2021-07-22 09:15](./nopdf.dgigovlk.ref720.md)
@@ -29,22 +48,3 @@ Isolated status lifted for Kotiyagala Estate Lower Division belonging to...
   * New deaths: 48
 705. [2021-07-19 18:35](./nopdf.dgigovlk.ref705.md)
   * Total cases: 277710; New cases: 980
-704. [2021-07-18 21:25](./nopdf.dgigovlk.ref704.md)
-  * Total cases: 276730; New cases: 1402
-703. [2021-07-18 18:35](./nopdf.dgigovlk.ref703.md)
-  * New deaths: 46
-702. [2021-07-18 18:30](./nopdf.dgigovlk.ref702.md)
-  * Total cases: 276350; New cases: 1022
-701. [2021-07-17 21:10](./nopdf.dgigovlk.ref701.md)
-  * Total cases: 275328; New cases: 1447
-700. [2021-07-17 18:10](./nopdf.dgigovlk.ref700.md)
-  * Total cases: 274861; New cases: 980
-699. [2021-07-17 16:15](./nopdf.dgigovlk.ref699.md)
-  * New deaths: 31
-698. [2021-07-17 09:00](./nopdf.dgigovlk.ref698.md)
-  * (Ke) Sed [Oss semrBbneSadqo
-X DIF HSU PHonowadbaenrd
-Isolated status lifted for Several Areas and Grama Niladhari Divisions in Kegalle,
-R...
-697. [2021-07-16 21:10](./nopdf.dgigovlk.ref697.md)
-  * Total cases: 273881; New cases: 1446
