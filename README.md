@@ -4,6 +4,24 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+752. [2021-07-29 20:00](./nopdf.dgigovlk.ref752.md)
+  * Total cases: 295722; New cases: 2329
+751. [2021-07-29 19:40](./nopdf.dgigovlk.ref751.md)
+  * New deaths: 66
+750. [2021-07-29 18:50](./nopdf.dgigovlk.ref750.md)
+  * Total cases: 295243
+749. [2021-07-28 20:35](./nopdf.dgigovlk.ref749.md)
+  * Total cases: 293393; New cases: 1919
+748. [2021-07-28 19:35](./nopdf.dgigovlk.ref748.md)
+  * New deaths: 63
+747. [2021-07-28 18:30](./nopdf.dgigovlk.ref747.md)
+  * Total cases: 292854
+746. [2021-07-27 21:00](./nopdf.dgigovlk.ref746.md)
+  * Total cases: 291474; New cases: 1688
+745. [2021-07-27 19:00](./nopdf.dgigovlk.ref745.md)
+  * New deaths: 48
+744. [2021-07-27 18:50](./nopdf.dgigovlk.ref744.md)
+  * Total cases: 290971; New cases: 1185
 742. [2021-07-26 21:15](./nopdf.dgigovlk.ref742.md)
   * Total cases: 289786; New cases: 1653
 740. [2021-07-26 20:00](./nopdf.dgigovlk.ref740.md)
@@ -22,27 +40,3 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
   * Total cases: 284770; New cases: 1785
 728. [2021-07-23 18:20](./nopdf.dgigovlk.ref728.md)
   * Total cases: 284295; New cases: 1310
-727. [2021-07-23 18:10](./nopdf.dgigovlk.ref727.md)
-  * New deaths: 43
-726. [2021-07-23 10:15](./nopdf.dgigovlk.ref726.md)
-  * 686d HHasG semboeSaqo0
-Release from Isolation
-Isolated status lifted for Agalawatta Village and Harasgama Village in Bogahakotuwa Grama
-N...
-725. [2021-07-22 21:50](./nopdf.dgigovlk.ref725.md)
-  * Total cases: 282985; New cases: 1714
-723. [2021-07-22 18:55](./nopdf.dgigovlk.ref723.md)
-  * New deaths: 42
-720. [2021-07-22 09:15](./nopdf.dgigovlk.ref720.md)
-  * ded GOIdG cemmbacOsqQo
-AIFTHS FEU Sonoran
-Release from Isolation
-Isolated status lifted for Kotiyagala Estate Lower Division belonging to...
-719. [2021-07-21 21:25](./nopdf.dgigovlk.ref719.md)
-  * Total cases: 281271; New cases: 1566
-718. [2021-07-21 18:30](./nopdf.dgigovlk.ref718.md)
-  * Total cases: 280885; New cases: 1180
-717. [2021-07-21 18:15](./nopdf.dgigovlk.ref717.md)
-  * New deaths: 47
-711. [2021-07-20 22:20](./nopdf.dgigovlk.ref711.md)
-  * Total cases: 279705; New cases: 1511
