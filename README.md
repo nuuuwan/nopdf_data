@@ -4,6 +4,8 @@ Source: [Department of Government Information](https://www.dgi.gov.lk/news/press
 
 
 
+764. [2021-08-01 20:30](./nopdf.dgigovlk.ref764.md)
+  * Total cases: 302817; New cases: 2490
 763. [2021-08-01 18:25](./nopdf.dgigovlk.ref763.md)
   * Total cases: 301982; New cases: 1655
 762. [2021-08-01 17:25](./nopdf.dgigovlk.ref762.md)
