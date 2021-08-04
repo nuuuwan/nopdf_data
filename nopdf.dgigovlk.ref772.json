@@ -1,0 +1,51 @@
+{
+  "ref_no": "772",
+  "unixtime": 1628021100,
+  "datetime": "2021-08-03 20:05",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 12
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 5
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 35
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 21
+    }
+  ],
+  "new_deaths": 73,
+  "uncategorized_text_lines": [
+    "6eed GOasS cemboeSasqQo",
+    "Chief Editor / News Director",
+    "Director (News) / News Editor",
+    "Covid death figures reported today 03.08.2021",
+    "Covid 19 death figures that were reported today August 03, 2021 after confirmed by the Director",
+    "General of Health Services yesterday (02) are as follows.",
+    "Below 30 years o1 oo o1",
+    "SDanprn wd! wong",
+    "163, Ageinene nave"
+  ]
+}
