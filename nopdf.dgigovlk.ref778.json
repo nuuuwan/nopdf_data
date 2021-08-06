@@ -1,0 +1,66 @@
+{
+  "ref_no": "778",
+  "unixtime": 1628113500,
+  "datetime": "2021-08-04 21:45",
+  "deaths_by_age_and_gender": [
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Male",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        0,
+        30
+      ],
+      "gender": "Female",
+      "deaths": 0
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Male",
+      "deaths": 14
+    },
+    {
+      "age_range": [
+        30,
+        60
+      ],
+      "gender": "Female",
+      "deaths": 8
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Male",
+      "deaths": 27
+    },
+    {
+      "age_range": [
+        60,
+        130
+      ],
+      "gender": "Female",
+      "deaths": 33
+    }
+  ],
+  "new_deaths": 82,
+  "uncategorized_text_lines": [
+    ") dcsed QOadS seerBbmeSiqQo",
+    "Department of Government information",
+    "Release No:778/2021",
+    "Covid death figures reported today 04.08.2021",
+    "Covid 19 death figures that were reported today August 04, 2021 after confirmed",
+    "by the Director General of Health Services yesterday (03) are as follows.",
+    "Age group Male Female Total",
+    "163, Anerisenen save, Gnv"
+  ]
+}
